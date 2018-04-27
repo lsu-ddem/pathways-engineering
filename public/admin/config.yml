@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: lsu-ddem/pathways-engineering
+  repo: lsu-ddem/pathways-site
   branch: master # Branch to update (optional; defaults to master)
   accept_roles: 
     - admin 
