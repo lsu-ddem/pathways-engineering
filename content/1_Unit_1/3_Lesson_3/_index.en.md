@@ -1,10 +1,7 @@
 ---
-title: Lesson 3   
-chapter: true
-# pre: "<b>1. </b>"
+title: Lesson 3
 weight: 3
 ---
-
 ### Lesson 3
 
 https://drive.google.com/drive/folders/0B6rL2dUirhNfZUFGVl9RNXNYTGs
