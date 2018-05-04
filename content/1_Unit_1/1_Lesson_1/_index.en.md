@@ -5,6 +5,6 @@ chapter: true
 weight: 1
 ---
 
-### Lesson 1 - Intro and Ethics
+### Lesson 1 - Introduction
 
 {{% link "https://drive.google.com/drive/folders/0B1OJ5hjpQNHvRVNwZ0NTSkJBa2c" %}}
