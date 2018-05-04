@@ -10,7 +10,7 @@ media_folder: "images/uploads" # Media files will be stored in the repo under im
 
 collections:
   - name: "Unit 1 - 1_Lesson_1" 
-    label: "Unit 1 - 1_Lesson_1" 
+    # label: "Unit 1 - 1_Lesson_1" 
     folder: "content/1_Unit_1/1_Lesson_1" 
     create: true 
     fields: 
