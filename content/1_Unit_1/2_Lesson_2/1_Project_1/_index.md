@@ -7,4 +7,4 @@ weight: 1
 
 ### Project 1
 
-https://drive.google.com/drive/folders/0B1OJ5hjpQNHvd0VSaFhEeHdwYnc
+{{% link "https://drive.google.com/drive/folders/0B1OJ5hjpQNHvd0VSaFhEeHdwYnc" %}}

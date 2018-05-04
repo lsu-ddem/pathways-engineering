@@ -7,4 +7,4 @@ weight: 1
 
 ### Lesson 1 - Intro and Ethics
 
-https://drive.google.com/drive/folders/0B1OJ5hjpQNHvRVNwZ0NTSkJBa2c
+{{% link "https://drive.google.com/drive/folders/0B1OJ5hjpQNHvRVNwZ0NTSkJBa2c" %}}
