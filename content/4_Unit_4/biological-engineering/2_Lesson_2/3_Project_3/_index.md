@@ -5,6 +5,6 @@ chapter: true
 weight: 3
 ---
 
-### Project 3 - Calculating Bouyancy of a Hot Air Balloon
+### Project 3 - Robot Hand
 
-{{% link "https://drive.google.com/open?id=0B30x04ffhNSFdF9zQmZiamhhWEk"%}}
+{{% link "https://drive.google.com/open?id=0B-GW488Ei2OLdS16UTUzc2RXbmc"%}}

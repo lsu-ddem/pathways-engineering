@@ -9,7 +9,7 @@ defaultContentLanguageInSubdir= true
 
 [params]
   editURL = "https://github.com/lsu-ddem/pathways-site"
-  description = "Educational material for LSU Programming Digital Media"
+  description = "Educational material for Pre-Engineering"
   author = "Tate Carson"
   showVisitedLinks = true
   themeVariant = "green"
@@ -19,7 +19,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Educational material for LSU Programming Digital Media"
+title = "Educational material for Pre-Engineering"
 weight = 1
 languageName = "English"
 
