@@ -7,4 +7,4 @@ weight: 1
 
 ### Lesson 1
 
-https://drive.google.com/drive/folders/0B30x04ffhNSFeDNZY1hkUnJSZ2s
+{{% link "https://drive.google.com/drive/folders/0B30x04ffhNSFeDNZY1hkUnJSZ2s" %}}
