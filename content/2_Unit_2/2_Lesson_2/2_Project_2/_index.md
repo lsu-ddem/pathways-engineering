@@ -7,4 +7,4 @@ weight: 2
 
 ### Project 2
 
-https://drive.google.com/open?id=0B6rL2dUirhNfTjktUW9UTXI0cHc
+{{% link "https://drive.google.com/open?id=0B6rL2dUirhNfTjktUW9UTXI0cHc" %}}
