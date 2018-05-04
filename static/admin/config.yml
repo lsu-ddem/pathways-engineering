@@ -18,19 +18,19 @@ collections:
       - {label: "Order", name: "weight", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "Unit 2 - Lesson 2" 
-  label: "Unit 2 - Lesson 2" 
-  folder: "content/1_Unit_1/2_Lesson_2" 
-  create: true 
-  fields: 
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Order", name: "weight", widget: "number"}
-    - {label: "Body", name: "body", widget: "markdown"}    
+    label: "Unit 2 - Lesson 2" 
+    folder: "content/1_Unit_1/2_Lesson_2" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}    
   - name: "Unit 3 - Lesson 3" 
-  label: "Unit 3 - Lesson 3" 
-  folder: "content/1_Unit_1/2_Lesson_3" 
-  create: true 
-  fields: 
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Order", name: "weight", widget: "number"}
-    - {label: "Body", name: "body", widget: "markdown"}     
+    label: "Unit 3 - Lesson 3" 
+    folder: "content/1_Unit_1/2_Lesson_3" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}     
   
