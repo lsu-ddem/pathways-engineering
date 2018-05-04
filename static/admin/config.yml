@@ -9,9 +9,9 @@ backend:
 media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
 
 collections:
-  - name: "1_introToCoding" 
-    label: "1_introToCoding" 
-    folder: "content/1_Coding/1_introToCoding" 
+  - name: "Unit 1 - 1_Lesson_1" 
+    label: "Unit 1 - 1_Lesson_1" 
+    folder: "content/1_Unit_1/1_Lesson_1" 
     create: true 
     fields: 
       - {label: "Title", name: "title", widget: "string"}
