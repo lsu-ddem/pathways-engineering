@@ -1,7 +1,6 @@
 ---
 title: Project 1    
-chapter: true
-# pre: "<b>1. </b>"
+description: Playground (Research)
 weight: 1
 hidden: true
 ---

@@ -1,7 +1,6 @@
 ---
 title: Project 2
-chapter: true
-# pre: "<b>2. </b>"
+description: Research Project
 weight: 2
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Project 2
-chapter: true
-# pre: "<b>2. </b>"
+description: Build a conveyor system
 weight: 2
 ---
 

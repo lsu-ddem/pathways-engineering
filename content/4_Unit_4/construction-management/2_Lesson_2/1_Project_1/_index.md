@@ -1,7 +1,6 @@
 ---
 title: Project 1    
-chapter: true
-# pre: "<b>1. </b>"
+description: 20 Minute Project
 weight: 1
 ---
 

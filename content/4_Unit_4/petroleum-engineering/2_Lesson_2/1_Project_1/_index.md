@@ -1,7 +1,6 @@
 ---
 title: Project 1    
-chapter: true
-# pre: "<b>1. </b>"
+description: Researching the Field
 weight: 1
 ---
 

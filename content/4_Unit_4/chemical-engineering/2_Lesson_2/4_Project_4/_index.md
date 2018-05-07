@@ -1,7 +1,6 @@
 ---
 title: Project 4
-chapter: true
-# pre: "<b>4. </b>"
+description: Silly Puddy 
 weight: 4
 hidden: true
 ---

@@ -1,7 +1,6 @@
 ---
 title: Project 2
-chapter: true
-# pre: "<b>2. </b>"
+description: Chocolate Coated Cookies
 weight: 2
 hidden: true
 ---

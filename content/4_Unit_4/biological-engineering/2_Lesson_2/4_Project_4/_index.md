@@ -1,7 +1,6 @@
 ---
 title: Project 4
-chapter: true
-# pre: "<b>4. </b>"
+description: Seeing The World Through a Different Lens
 weight: 4
 hidden: true
 ---

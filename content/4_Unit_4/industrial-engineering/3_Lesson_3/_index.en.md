@@ -1,7 +1,6 @@
 ---
-title: Lesson 3   
-chapter: true
-# pre: "<b>1. </b>"
+title: Lesson 3 - Quiz
+hidden: true 
 weight: 3
 ---
 

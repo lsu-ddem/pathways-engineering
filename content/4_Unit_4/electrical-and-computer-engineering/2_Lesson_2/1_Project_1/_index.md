@@ -1,7 +1,7 @@
 ---
 title: Project 1    
 chapter: true
-# pre: "<b>1. </b>"
+description: AM/FM Transmission Project
 weight: 1
 ---
 

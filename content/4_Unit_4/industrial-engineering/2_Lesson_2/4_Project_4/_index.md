@@ -1,7 +1,6 @@
 ---
 title: Project 4
-chapter: true
-# pre: "<b>4. </b>"
+description: Case Studies
 weight: 4
 ---
 

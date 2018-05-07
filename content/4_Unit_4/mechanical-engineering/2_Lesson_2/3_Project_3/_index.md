@@ -1,7 +1,6 @@
 ---
 title: Project 3
-chapter: true
-# pre: "<b>3. </b>"
+description: Inclined Plane Activity
 weight: 3
 ---
 

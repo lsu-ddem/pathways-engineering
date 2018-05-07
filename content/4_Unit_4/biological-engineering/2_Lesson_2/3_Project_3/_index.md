@@ -1,7 +1,6 @@
 ---
 title: Project 3
-chapter: true
-# pre: "<b>3. </b>"
+description: Robot Hand
 weight: 3
 hidden: true
 ---
