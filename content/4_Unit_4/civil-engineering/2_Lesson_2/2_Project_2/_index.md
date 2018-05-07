@@ -5,6 +5,6 @@ chapter: true
 weight: 2
 ---
 
-### Project 2 - Building a Super Slinger
+### Project 2 - Research Project
 
-{{% link "https://drive.google.com/open?id=0B30x04ffhNSFbnZNaVpLbzZ1Tm8" %}}
+{{% link "https://drive.google.com/open?id=0B1OJ5hjpQNHvN2d2Q284aDRlTFE" %}}

@@ -5,6 +5,6 @@ chapter: true
 weight: 3
 ---
 
-### Project 3 - Calculating Bouyancy of a Hot Air Balloon
+### Project 3 - Hurricane Resistant House of Cards
 
-{{% link "https://drive.google.com/open?id=0B30x04ffhNSFdF9zQmZiamhhWEk"%}}
+{{% link "https://drive.google.com/open?id=0B2qIkWyuY6yoYzVwQzJIX0xTbms"%}}

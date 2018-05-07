@@ -5,6 +5,6 @@ chapter: true
 weight: 3
 ---
 
-### Lesson 3
+### Lesson 3 - Quiz
 
 {{ % link "https://drive.google.com/open?id=0B30x04ffhNSFOEl6akFQcWgtLXM" %}}

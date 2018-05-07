@@ -5,6 +5,6 @@ chapter: true
 weight: 1
 ---
 
-### Lesson 1
+### Lesson 1 - Introduction
 
 {{% link "https://drive.google.com/open?id=0B-GW488Ei2OLd2QtMzdsd3BMSlU" %}}

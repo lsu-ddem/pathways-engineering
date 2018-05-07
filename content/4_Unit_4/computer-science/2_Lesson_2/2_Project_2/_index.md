@@ -5,6 +5,6 @@ chapter: true
 weight: 2
 ---
 
-### Project 2 - Building a Super Slinger
+### Project 2 - WiFi Blocking Material
 
-{{% link "https://drive.google.com/open?id=0B30x04ffhNSFbnZNaVpLbzZ1Tm8" %}}
+{{% link "https://drive.google.com/open?id=0B6rL2dUirhNfVjdxM0pxSnZqZHc" %}}

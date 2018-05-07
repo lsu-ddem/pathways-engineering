@@ -1,3 +1,4 @@
 ---
-title: "Biological Engineering"
+title: "Electrical and Computer Engineering"
+weight: 6
 ---

@@ -5,6 +5,6 @@ chapter: true
 weight: 1
 ---
 
-### Project 1 - Building a Boat
+### Project 1 - Assembly Line Project
 
-{{% link "https://drive.google.com/open?id=0B30x04ffhNSFX2NJcWxDSU1LNE0" %}}
+{{% link "https://drive.google.com/open?id=0B1OJ5hjpQNHvdnlVUmlNVWd1RGc" %}}
