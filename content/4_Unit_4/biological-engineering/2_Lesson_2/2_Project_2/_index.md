@@ -3,6 +3,7 @@ title: Project 2
 chapter: true
 # pre: "<b>2. </b>"
 weight: 2
+hidden: true
 ---
 
 ### Project 2 - Circulatory System

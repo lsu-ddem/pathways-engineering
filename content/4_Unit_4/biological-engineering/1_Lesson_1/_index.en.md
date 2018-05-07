@@ -1,8 +1,9 @@
 ---
-title: Lesson 1 
+title: Lesson 1 - Introduction
 chapter: true
 # pre: "<b>1. </b>"
 weight: 1
+hidden: true
 ---
 
 ### Lesson 1 - Introduction

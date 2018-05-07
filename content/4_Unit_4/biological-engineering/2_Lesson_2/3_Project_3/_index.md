@@ -3,6 +3,7 @@ title: Project 3
 chapter: true
 # pre: "<b>3. </b>"
 weight: 3
+hidden: true
 ---
 
 ### Project 3 - Robot Hand

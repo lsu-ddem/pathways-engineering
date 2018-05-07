@@ -1,4 +1,4 @@
 ---
-title: "Chemical Engineering test"
+title: "Chemical Engineering"
 weight: 2
 ---

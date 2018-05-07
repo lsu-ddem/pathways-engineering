@@ -3,6 +3,7 @@ title: Project 1
 chapter: true
 # pre: "<b>1. </b>"
 weight: 1
+hidden: true
 ---
 
 ### Project 1 - Gourmet Product Project
