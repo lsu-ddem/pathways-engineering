@@ -482,3 +482,58 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Order", name: "weight", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}   
+
+  #####
+  # electrical and computer engineering 
+  - name: "Unit 4 - Electrical and Computer Engineering - Lesson 1" 
+    label: "Unit 4 - Electrical and Computer Engineering - Lesson 1" 
+    folder: "content/4_Unit_4/electrical-and-computer-engineering/1_Lesson_1" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Unit 4 - Electrical and Computer Engineering - Lesson 2" 
+    label: "Unit 4 - Electrical and Computer Engineering - Lesson 2" 
+    folder: "content/4_Unit_4/electrical-and-computer-engineering/2_Lesson_2" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}    
+
+  #Projects     
+  - name: "Unit 4 - Electrical and Computer Engineering - Lesson 2 - Project 1" 
+    label: "Unit 4 - Electrical and Computer Engineering - Lesson 2 - Project 1" 
+    folder: "content/4_Unit_4/electrical-and-computer-engineering/2_Lesson_2/1_Project_1" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}    
+  - name: "Unit 4 - Electrical and Computer Engineering - Lesson 2 - Project 2" 
+    label: "Unit 4 - Electrical and Computer Engineering - Lesson 2 - Project 2" 
+    folder: "content/4_Unit_4/electrical-and-computer-engineering/2_Lesson_2/2_Project_2" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}   
+  - name: "Unit 4 - Electrical and Computer Engineering - Lesson 2 - Project 3" 
+    label: "Unit 4 - Electrical and Computer Engineering - Lesson 2 - Project 3" 
+    folder: "content/4_Unit_4/electrical-and-computer-engineering/2_Lesson_2/3_Project_3" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}         
+  
+  #Back to lessons 
+  - name: "Unit 4 - Electrical and Computer Engineering - Lesson 3" 
+    label: "Unit 4 - Electrical and Computer Engineering - Lesson 3" 
+    folder: "content/4_Unit_4/electrical-and-computer-engineering/3_Lesson_3" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}   
