@@ -300,3 +300,66 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Order", name: "weight", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}   
+
+  #####
+  # civil engineering 
+  - name: "Unit 4 - Civil Engineering - Lesson 1" 
+    label: "Unit 4 - Civil Engineering - Lesson 1" 
+    folder: "content/4_Unit_4/civil-engineering/1_Lesson_1" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Unit 4 - Civil Engineering - Lesson 2" 
+    label: "Unit 4 - Civil Engineering - Lesson 2" 
+    folder: "content/4_Unit_4/civil-engineering/2_Lesson_2" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}    
+
+  #Projects     
+  - name: "Unit 4 - Civil Engineering - Lesson 2 - Project 1" 
+    label: "Unit 4 - Civil Engineering - Lesson 2 - Project 1" 
+    folder: "content/4_Unit_4/civil-engineering/2_Lesson_2/1_Project_1" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}    
+  - name: "Unit 4 - Civil Engineering - Lesson 2 - Project 2" 
+    label: "Unit 4 - Civil Engineering - Lesson 2 - Project 2" 
+    folder: "content/4_Unit_4/civil-engineering/2_Lesson_2/2_Project_2" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}   
+  - name: "Unit 4 - Civil Engineering - Lesson 2 - Project 3" 
+    label: "Unit 4 - Civil Engineering - Lesson 2 - Project 3" 
+    folder: "content/4_Unit_4/civil-engineering/2_Lesson_2/3_Project_3" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}       
+  - name: "Unit 4 - Civil Engineering - Lesson 2 - Project 4" 
+    label: "Unit 4 - Civil Engineering - Lesson 2 - Project 4" 
+    folder: "content/4_Unit_4/civil-engineering/2_Lesson_2/4_Project_4" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}          
+  
+  #Back to lessons 
+  - name: "Unit 4 - Civil Engineering - Lesson 3" 
+    label: "Unit 4 - Civil Engineering - Lesson 3" 
+    folder: "content/4_Unit_4/civil-engineering/3_Lesson_3" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}   
