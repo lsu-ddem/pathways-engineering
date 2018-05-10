@@ -2,7 +2,7 @@
 title: "Intro to Engineering Design"
 ---
 
-# Pre-engineering
+# Intro to Engineering Design
 
 ## Syllabus
 
