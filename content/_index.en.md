@@ -1,5 +1,5 @@
 ---
-title: "Pre-Engineering"
+title: "Intro to Engineering Design"
 ---
 
 # Pre-engineering
