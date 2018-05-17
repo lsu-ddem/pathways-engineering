@@ -1,5 +1,6 @@
 ---
 title: Project 2
+description: Work Ethic in Action 
 weight: 2
 ---
 

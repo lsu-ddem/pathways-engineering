@@ -1,6 +1,7 @@
 ---
 title: Lesson 1
 weight: 1
+hidden: true
 ---
 
 ### Lesson 1 - Introduction
