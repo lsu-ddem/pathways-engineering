@@ -1,5 +1,6 @@
 ---
 title: Project 2
+description: Building a Super Slinger
 weight: 2
 ---
 

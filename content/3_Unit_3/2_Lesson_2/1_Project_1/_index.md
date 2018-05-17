@@ -1,6 +1,7 @@
 ---
 title: Project 1
 weight: 1
+description: Building a Boat
 ---
 
 ### Project 1 - Building a Boat
