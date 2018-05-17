@@ -4,4 +4,4 @@ weight: 3
 ---
 ### Lesson 3 - Quiz
 
-{{% link "https://drive.google.com/drive/u/0/folders/0B6rL2dUirhNfZUFGVl9RNXNYTGs" %}}
+{{% link "https://drive.google.com/open?id=0B6rL2dUirhNfZUFGVl9RNXNYTGs" %}}
