@@ -1,10 +1,7 @@
 ---
 title: Project 2
-chapter: true
-# pre: "<b>2. </b>"
 weight: 2
 ---
-
 ### Project 2
 
-{{% link "https://drive.google.com/open?id=0B6rL2dUirhNfTjktUW9UTXI0cHc" %}}
+{{% link "https://drive.google.com/drive/u/0/folders/0B6rL2dUirhNfNDlsUHBWWklINXc" %}}
