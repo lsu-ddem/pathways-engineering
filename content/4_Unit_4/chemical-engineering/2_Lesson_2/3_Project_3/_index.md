@@ -1,10 +1,7 @@
 ---
 title: Project 3
-description: Alternate Project
 weight: 3
-hidden: true
 ---
-
-### Project 3 - Alternate Project
+### Project 3 - Alternate Project (Do Not Use Yet)
 
 {{% link "https://drive.google.com/open?id=0BzHE1dAbksQ8YzBueWtFTlU2ekE"%}}
