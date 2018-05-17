@@ -1,7 +1,9 @@
 ---
-title: Lesson 1
+title: Lesson 1 
 weight: 1
+hidden: true
 ---
+
 ### Lesson 1 - Introduction
 
 {{% link "https://drive.google.com/drive/folders/0B1OJ5hjpQNHvRVNwZ0NTSkJBa2c" %}}

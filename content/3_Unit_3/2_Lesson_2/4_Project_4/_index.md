@@ -1,6 +1,7 @@
 ---
 title: Project 4
 chapter: true
+description: Egg Protector
 # pre: "<b>4. </b>"
 weight: 4
 ---

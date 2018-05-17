@@ -1,6 +1,7 @@
 ---
 title: Project 1    
 chapter: true
+description: Building a Boat
 # pre: "<b>1. </b>"
 weight: 1
 ---

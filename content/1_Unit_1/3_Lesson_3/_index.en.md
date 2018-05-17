@@ -1,6 +1,7 @@
 ---
 title: Lesson 3
 weight: 3
+hidden: true
 ---
 
 ### Lesson 3 - Quiz

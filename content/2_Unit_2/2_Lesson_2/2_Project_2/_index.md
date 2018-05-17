@@ -1,6 +1,7 @@
 ---
 title: Project 2
 chapter: true
+description: Work Ethic in Action Scenarios 
 # pre: "<b>2. </b>"
 weight: 2
 ---

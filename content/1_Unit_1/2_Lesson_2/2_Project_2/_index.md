@@ -1,6 +1,6 @@
 ---
 title: Project 2
-chapter: true
+description: Various Ethics Cases
 # pre: "<b>2. </b>"
 weight: 2
 ---

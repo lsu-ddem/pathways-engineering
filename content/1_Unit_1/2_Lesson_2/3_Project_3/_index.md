@@ -1,6 +1,6 @@
 ---
 title: Project 3
-chapter: true
+description: Create an Ethics Skit
 # pre: "<b>3. </b>"
 weight: 3
 ---

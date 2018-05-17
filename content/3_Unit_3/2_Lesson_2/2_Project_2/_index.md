@@ -1,6 +1,7 @@
 ---
 title: Project 2
 chapter: true
+description: Building a Super Slinger
 # pre: "<b>2. </b>"
 weight: 2
 ---

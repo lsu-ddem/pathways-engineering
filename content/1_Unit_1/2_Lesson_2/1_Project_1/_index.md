@@ -1,6 +1,7 @@
 ---
 title: Project 1    
 chapter: true
+description: These Pesky Side Reactions 
 # pre: "<b>1. </b>"
 weight: 1
 ---
