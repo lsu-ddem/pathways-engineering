@@ -1,5 +1,6 @@
 ---
 title: Project 3
+description: Create an Ethics Skit 
 weight: 3
 ---
 

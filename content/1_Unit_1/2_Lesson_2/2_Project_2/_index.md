@@ -1,5 +1,6 @@
 ---
 title: Project 2
+description: Various Ethics Cases
 weight: 2
 ---
 
