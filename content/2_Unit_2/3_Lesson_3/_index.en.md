@@ -1,11 +1,8 @@
 ---
-title: Lesson 3   
-chapter: true
-hidden: true 
-# pre: "<b>1. </b>"
+title: Lesson 3
 weight: 3
 ---
 
 ### Lesson 3 - Quiz
 
-{{% link "https://drive.google.com/drive/folders/0B6rL2dUirhNfc1BFUkhxellqdlE" %}}
+{{% link "https://drive.google.com/open?id=0B6rL2dUirhNfc1BFUkhxellqdlE" %}}

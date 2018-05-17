@@ -1,11 +1,7 @@
 ---
-title: Lesson 1 - Introduction 
-chapter: true
-# pre: "<b>1. </b>"
-hidden: true
+title: Lesson 1 - Introduction
 weight: 1
 ---
-
 ### Lesson 1 - Introduction
 
-{{% link "https://drive.google.com/drive/folders/0B30x04ffhNSFeDNZY1hkUnJSZ2s" %}}
+{{% link "https://drive.google.com/open?id=0B1OJ5hjpQNHvdDFJRUZPMV9RbFU" %}}
