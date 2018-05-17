@@ -6,4 +6,4 @@ hidden: true
 
 ### Lesson 1 - Introduction
 
-{{% link "https://drive.google.com/drive/folders/0B1OJ5hjpQNHvRVNwZ0NTSkJBa2c" %}}
+{{% link "https://drive.google.com/open?id=0B1OJ5hjpQNHvRVNwZ0NTSkJBa2c" %}}
