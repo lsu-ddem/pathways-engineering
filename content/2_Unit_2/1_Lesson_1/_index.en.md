@@ -4,7 +4,7 @@ weight: 1
 ---
 ### Lesson 1 - Introduction
 
-<a href="https://docs.google.com/presentation/d/1cg5hveW_THi6_YeAgQ3Cfo61Scz5ezAXmvs6hwfJQ3g/export?format=pptx" target="_blank">Click here to Download pptx</a>
+<a href="https://docs.google.com/presentation/d/1cg5hveW_THi6_YeAgQ3Cfo61Scz5ezAXmvs6hwfJQ3g/edit?usp=sharing" target="_blank">Click here to Download power</a>
 
 
 [Click two](https://docs.google.com/presentation/d/e/2PACX-1vQHutAL0Iq2rBprb2YhwO84kWY477talRd4WGSnb4KVFJqSt-GSL4xjRkdsdzAoxPbkxOVtBYKoWPW7/export?format=ppt)
