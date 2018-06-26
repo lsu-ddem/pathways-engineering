@@ -5,9 +5,6 @@ weight: 1
 ### Lesson 1 - Introduction
 
 
-
-{{% [Click here to download powerpoint](https://docs.google.com/presentation/d/1cg5hveW_THi6_YeAgQ3Cfo61Scz5ezAXmvs6hwfJQ3g/export?format=ppt) %}}
-
 <a href="https://docs.google.com/presentation/d/1cg5hveW_THi6_YeAgQ3Cfo61Scz5ezAXmvs6hwfJQ3g/export?format=ppt" target="_blank">Click here to Download htmlversion</a>
 
 
