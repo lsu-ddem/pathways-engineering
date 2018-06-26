@@ -4,7 +4,11 @@ weight: 1
 ---
 ### Lesson 1 - Introduction
 
-[Click here to download powerpoint](https://docs.google.com/presentation/d/1cg5hveW_THi6_YeAgQ3Cfo61Scz5ezAXmvs6hwfJQ3g/export?format=ppt)
+{{% link "https://drive.google.com/open?id=0B6rL2dUirhNfLWNnNmd2SHdUSWM" %}}
+
+{{% link [Click here to download powerpoint](https://docs.google.com/presentation/d/1cg5hveW_THi6_YeAgQ3Cfo61Scz5ezAXmvs6hwfJQ3g/export?format=ppt) %}}
+
+{{% [Click here to download powerpoint](https://docs.google.com/presentation/d/1cg5hveW_THi6_YeAgQ3Cfo61Scz5ezAXmvs6hwfJQ3g/export?format=ppt) %}}
 
 [Click two](https://docs.google.com/presentation/d/e/2PACX-1vQHutAL0Iq2rBprb2YhwO84kWY477talRd4WGSnb4KVFJqSt-GSL4xjRkdsdzAoxPbkxOVtBYKoWPW7/export?format=ppt)
 
