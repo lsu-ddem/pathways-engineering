@@ -1,6 +1,6 @@
 ---
 title: Lesson 3 - Quiz 
-hidden: true 
+# hidden: true 
 weight: 3
 ---
 

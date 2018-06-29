@@ -2,6 +2,7 @@
 title: Project 5
 description: Gantt Chart
 weight: 5
+hidden: true
 ---
 
 ### Project 5 - Gantt Chart

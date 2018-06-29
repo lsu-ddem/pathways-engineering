@@ -2,6 +2,7 @@
 title: Project 1    
 description: Oil Spills
 weight: 1
+hidden: true
 ---
 
 ### Project 1 - Oil Spills

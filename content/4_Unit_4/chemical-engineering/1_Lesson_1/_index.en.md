@@ -2,7 +2,7 @@
 title: Lesson 1 - Introduction 
 chapter: true
 weight: 1
-hidden: true
+# hidden: true
 ---
 
 ### Lesson 1 - Introduction

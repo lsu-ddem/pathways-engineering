@@ -2,6 +2,7 @@
 title: Project 3
 description: Designing a Subdivision
 weight: 3
+hidden: true
 ---
 
 ### Project 3 - Designing a Subdivision

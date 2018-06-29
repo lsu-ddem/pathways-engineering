@@ -2,6 +2,7 @@
 title: Project 2
 description: Air Quality
 weight: 2
+hidden: true
 ---
 
 ### Project 2 - Air Quality

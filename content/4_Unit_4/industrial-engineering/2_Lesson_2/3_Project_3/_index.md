@@ -2,6 +2,7 @@
 title: Project 3
 description: Time and Motion
 weight: 3
+hidden: true
 ---
 
 ### Project 3 - Time and Motion

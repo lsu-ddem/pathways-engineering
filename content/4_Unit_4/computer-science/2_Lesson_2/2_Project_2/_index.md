@@ -2,6 +2,7 @@
 title: Project 2
 description: WiFi Blocking Material
 weight: 2
+hidden: true
 ---
 
 ### Project 2 - WiFi Blocking Material

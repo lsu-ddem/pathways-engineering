@@ -2,7 +2,7 @@
 title: Lesson 3 - Quiz 
 chapter: true
 # pre: "<b>1. </b>"
-hidden: true
+# hidden: true
 weight: 3
 ---
 

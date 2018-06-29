@@ -3,7 +3,7 @@ title: Lesson 1 - Introduction
 chapter: true
 # pre: "<b>1. </b>"
 weight: 1
-hidden: true
+# hidden: true
 ---
 
 ### Lesson 1 - Introduction

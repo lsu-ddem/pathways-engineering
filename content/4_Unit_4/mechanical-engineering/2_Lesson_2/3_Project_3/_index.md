@@ -2,6 +2,7 @@
 title: Project 3
 description: Inclined Plane Activity
 weight: 3
+hidden: true
 ---
 
 ### Project 3 - Inclined Plane Activity

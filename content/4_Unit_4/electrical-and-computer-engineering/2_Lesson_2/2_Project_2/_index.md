@@ -3,6 +3,7 @@ title: Project 2
 chapter: true
 description: Arduino Light Blink and Extensions
 weight: 2
+hidden: true
 ---
 
 ### Project 2 - Arduino Light Blink and Extensions

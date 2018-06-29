@@ -2,6 +2,7 @@
 title: Project 1    
 description: 20 Minute Project
 weight: 1
+hidden: true
 ---
 
 ### Project 1 - 20 Minute Project

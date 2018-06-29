@@ -2,6 +2,7 @@
 title: Project 2
 description: Research Project
 weight: 2
+hidden: true
 ---
 
 ### Project 2 - Research Project

@@ -1,7 +1,7 @@
 ---
 title: Lesson 3 - Quiz 
 chapter: true
-hidden: true
+# hidden: true
 weight: 3
 ---
 

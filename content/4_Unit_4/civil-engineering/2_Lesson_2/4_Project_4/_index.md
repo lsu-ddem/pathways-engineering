@@ -2,6 +2,7 @@
 title: Project 4
 description: Build your own Aquifer
 weight: 4
+hidden: true
 ---
 
 ### Project 4 - Build your own Aquifer

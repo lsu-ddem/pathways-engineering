@@ -2,6 +2,7 @@
 title: Project 1    
 description: Researching the Field
 weight: 1
+hidden: true
 ---
 
 ### Project 1 - Researching the Field

@@ -1,7 +1,7 @@
 ---
 title: Project 2
 description: Earthquake
-
+hidden: true
 weight: 2
 ---
 

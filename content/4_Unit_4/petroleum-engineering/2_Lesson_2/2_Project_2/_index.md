@@ -2,6 +2,7 @@
 title: Project 2
 description: Fracking with Jello
 weight: 2
+hidden: true
 ---
 
 ### Project 2 - Fracking with Jello

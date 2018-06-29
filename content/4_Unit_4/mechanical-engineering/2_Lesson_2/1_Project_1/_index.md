@@ -2,6 +2,7 @@
 title: Project 1    
 description: Sail Car Activity
 weight: 1
+hidden: true
 ---
 
 ### Project 1 - Sail Car Activity
