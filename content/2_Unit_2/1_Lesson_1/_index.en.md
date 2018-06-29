@@ -11,3 +11,6 @@ weight: 1
 
 <iframe src='https://docs.google.com/presentation/d/e/2PACX-1vQHutAL0Iq2rBprb2YhwO84kWY477talRd4WGSnb4KVFJqSt-GSL4xjRkdsdzAoxPbkxOVtBYKoWPW7/embed?start=false&loop=false&delayms=3000' frameborder='0' width='1536' height='1181' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe>
 {{%/ embed %}}
+
+<!-- TODO: link to pdfs in folder -->
+<!-- TODO: each powerpoint goes on separate page  -->

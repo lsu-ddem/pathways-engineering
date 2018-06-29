@@ -9,3 +9,8 @@ weight: 1
 ### Project 1
 
 {{% link "https://drive.google.com/open?id=0B30x04ffhNSFeUpnX043c3JvT0U" %}}
+
+<!--
+TODO: embed powerpiont
+TODO: link to handout and rubrice
+-->
