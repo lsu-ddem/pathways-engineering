@@ -18,6 +18,6 @@ Click <a href="https://docs.google.com/presentation/d/1v-LP6X6F_Kn7cQxCtd8xi823p
 - <a href="https://drive.google.com/open?id=1k9rjNMXOPk2UMoWrrb5ls9BzeSZyTFvATATz8j6YpGQ" target="_blank">Playground material resources</a>
 - <a href="https://drive.google.com/open?id=1KTjenrSW1AIrGcDtdLSTi48I64yAEIXw6Jb_Q2YHS0Q" target="_blank">Student Handout</a>
 
-{{< notice >}}
-teacher
-{{</ notice >}}
+{{< teacher >}}
+hi
+{{</ teacher >}}
