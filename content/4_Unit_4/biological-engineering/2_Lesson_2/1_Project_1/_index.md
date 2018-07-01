@@ -21,4 +21,5 @@ Click <a href="https://docs.google.com/presentation/d/1v-LP6X6F_Kn7cQxCtd8xi823p
 {{% teacher %}}
 
 - <a href="https://drive.google.com/open?id=1XaoWQIOmaK_zrHdSwVIu6P9DL27PCVZook5x2YNQaL8" target="_blank">Teacher Notes</a>
-  {{%/ teacher %}}
+
+  {{% /teacher %}}
