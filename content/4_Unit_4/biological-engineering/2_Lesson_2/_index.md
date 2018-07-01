@@ -8,10 +8,9 @@ weight: 2
 {{% children showhidden="true" depth="999" description="true" %}}
 
 <!--
-only for lesson 2 for each day of unit 4 
+only for lesson 2 for each day of unit 4
 TODO: embed powerpoints
-* link to other material - pdfs etc 
+* link to other material - pdfs etc
 * hide teacher notes and student solutions
 * dont' worry about folders in this section
  -->
-a 
