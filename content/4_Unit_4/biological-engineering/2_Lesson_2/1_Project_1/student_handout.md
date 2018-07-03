@@ -5,6 +5,8 @@ weight: 1
 hidden: true
 ---
 
+Click here to download this document. 
+
 Playground Design Project
 
 **Materials**
@@ -67,5 +69,5 @@ These are the questions that should be included in your lab report:
 <!-- GD2md-html version 1.0β11 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODA4NTg5MywxNTk4NjY4NjczXX0=
+eyJoaXN0b3J5IjpbMTQxMDMzMTkzMywxNTk4NjY4NjczXX0=
 -->
