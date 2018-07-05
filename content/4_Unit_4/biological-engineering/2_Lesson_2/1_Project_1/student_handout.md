@@ -69,5 +69,6 @@ These are the questions that should be included in your lab report:
 <!-- GD2md-html version 1.0β11 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDMzMTkzMywxNTk4NjY4NjczXX0=
+eyJoaXN0b3J5IjpbMTI2ODI3NjA5LDE0MTAzMzE5MzMsMTU5OD
+Y2ODY3M119
 -->
