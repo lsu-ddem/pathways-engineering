@@ -79,7 +79,7 @@ Why is the problem important to solve?</td>
 </table>
 
 
-**Choose three based on lesson 1 and the project you selected. **
+**Choose three based on lesson 1 and the project you selected.** 
 
 <table>
   <tr>
