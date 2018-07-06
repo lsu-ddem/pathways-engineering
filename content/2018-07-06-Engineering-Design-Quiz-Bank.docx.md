@@ -199,7 +199,7 @@ You try as many solutions as you need until you find a perfect solution.
 </table>
 
 
-**Choose six based on lesson 1 and the project you selected. ** 
+**Choose six based on lesson 1 and the project you selected.**  
 
 <table>
   <tr>
@@ -267,7 +267,7 @@ V= m/D</td>
 </table>
 
 
-**Choose one based on lesson 1 or the project you selected. **
+**Choose one based on lesson 1 or the project you selected.** 
 
 <table>
   <tr>
