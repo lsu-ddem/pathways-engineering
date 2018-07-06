@@ -58,7 +58,7 @@ published: true
 </table>
 
 
-**Discussion Questions**:** **
+**Discussion Questions**:
 
 1. **Torque** is the amount of force (N) multiplied by the length (in) of your launcher. Calculate the torque of your super slinger by measuring the length of your launcher from the pivot point to the end. Assume that the force for a mousetrap is 100 N or each rubber band is 5 N. Assume that the mass of the ball does not impact the torque.
 
