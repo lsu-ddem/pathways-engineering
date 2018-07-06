@@ -6,7 +6,7 @@ permalink: /online-course_-project-guide.docx/
 source-id: 1edQAjptI_Ew3anmWEOtHL14QrIzBKPQNQcGgvYe4Bzs
 published: true
 ---
-**Suggested Materials**:** **you can use any of the following materials to make a super slinger. You do not need ALL of the materials to complete this assignment. 
+**Suggested Materials**: you can use any of the following materials to make a super slinger. You do not need ALL of the materials to complete this assignment. 
 
 * Cardboard (enough for the base of your slinging mechanism)
 
