@@ -6,7 +6,7 @@ permalink: /online-course_-project-guide.docx/
 source-id: 1edQAjptI_Ew3anmWEOtHL14QrIzBKPQNQcGgvYe4Bzs
 published: true
 ---
-**Suggested Materials: **you can use any of the following materials to make a super slinger. You do not need ALL of the materials to complete this assignment. 
+**Suggested Materials**:** **you can use any of the following materials to make a super slinger. You do not need ALL of the materials to complete this assignment. 
 
 * Cardboard (enough for the base of your slinging mechanism)
 
@@ -28,7 +28,7 @@ published: true
 
 * Mouse Trap
 
-**Procedure:**
+**Procedure**:
 
 1. Use any of the materials above to create a catapult that launches a ping pong ball at least 5 feet. 
 
@@ -58,7 +58,7 @@ published: true
 </table>
 
 
-**Discussion Questions: **
+**Discussion Questions**:** **
 
 1. **Torque** is the amount of force (N) multiplied by the length (in) of your launcher. Calculate the torque of your super slinger by measuring the length of your launcher from the pivot point to the end. Assume that the force for a mousetrap is 100 N or each rubber band is 5 N. Assume that the mass of the ball does not impact the torque.
 
