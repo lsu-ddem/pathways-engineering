@@ -36,7 +36,7 @@ published: true
 
 3. Record your distance in the chart below. 
 
-**Results:**
+**Results**:
 
 <table>
   <tr>
