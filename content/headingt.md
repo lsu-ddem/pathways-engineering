@@ -6,15 +6,15 @@ permalink: /untitled-document/
 source-id: 1LolN48u35wwXa8yyhEcUg02EXBLvwvBmuZXX4tIspfQ
 published: true
 ---
-**Course Title**: Introduction to Engineering (Dual Enroll: ENG1050)
+## **Course Title**: Introduction to Engineering (Dual Enroll: ENG1050)
 
-**Unit**: 3 – Engineering Design
+## **Unit**: 3 – Engineering Design
 
-**Primary Subject Area and Grade Level:** 9-10![image alt text]({{ site.url }}/public/xl44zGPqbiEnJoeO6szQFQ_img_0.jpg)
-
-**[image](https://pdm.lsupathways.org/images/uploads/signal_pathway_basic_diagram.png)**
+**Primary Subject Area and Grade Level:** 9-10
 
 **Contact Information:** 
+
+![image alt text]({{ site.url }}/public/xl44zGPqbiEnJoeO6szQFQ_img_0.png)
 
 # Unit 3
 
