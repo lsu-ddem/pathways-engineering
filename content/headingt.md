@@ -16,6 +16,8 @@ published: true
 
 ![image alt text](/xl44zGPqbiEnJoeO6szQFQ_img_0.png)
 
+![image alt text](/xl44zGPqbiEnJoeO6szQFQ_img_1.jpg)
+
 # Unit 3
 
 **Overview:**
