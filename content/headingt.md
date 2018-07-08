@@ -14,7 +14,7 @@ published: true
 
 **Contact Information:** 
 
-![image alt text](static/images/xl44zGPqbiEnJoeO6szQFQ_img_0.png)
+![image alt text](/xl44zGPqbiEnJoeO6szQFQ_img_0.png)
 
 # Unit 3
 
