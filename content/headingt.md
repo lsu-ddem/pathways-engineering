@@ -10,7 +10,9 @@ published: true
 
 **Unit**: 3 – Engineering Design
 
-**Primary Subject Area and Grade Level:** 9-10
+**Primary Subject Area and Grade Level:** 9-10![image alt text]({{ site.url }}/public/xl44zGPqbiEnJoeO6szQFQ_img_0.jpg)
+
+**[image](https://pdm.lsupathways.org/images/uploads/signal_pathway_basic_diagram.png)**
 
 **Contact Information:** 
 
