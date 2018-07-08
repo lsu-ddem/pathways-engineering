@@ -14,9 +14,9 @@ published: true
 
 **Contact Information:** 
 
-![image alt text](images/xl44zGPqbiEnJoeO6szQFQ_img_0.png)
+![image alt text](https://intro-to-engineering-design.lsupathways.org/images/xl44zGPqbiEnJoeO6szQFQ_img_0.png)
 
-![image alt text](images/xl44zGPqbiEnJoeO6szQFQ_img_1.jpg)
+![image alt text](https://intro-to-engineering-design.lsupathways.org/images/xl44zGPqbiEnJoeO6szQFQ_img_1.jpg)
 
 # Unit 3
 
