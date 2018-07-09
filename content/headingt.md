@@ -1,14 +1,13 @@
 ---
 title: Hello this is just a test
 layout: post
-author: lsupathwaypreengineering
 permalink: /untitled-document/
 source-id: 1LolN48u35wwXa8yyhEcUg02EXBLvwvBmuZXX4tIspfQ
 published: true
 ---
 ## **Course Title**: Introduction to Engineering (Dual Enroll: ENG1050)
 
-## **Unit**: 3 – Engineering Design
+### **Unit**: 3 – Engineering Design
 
 **Primary Subject Area and Grade Level:** 9-10
 
@@ -41,8 +40,6 @@ Use the engineering design process to solve the problem.Employ the use of data 
 Explain the reasons for their selected designs and material choices.
 
 **Relevance/Rationale/Explorations and Extensions:**
-
-                                           	
 
 The engineering design process is a highly involved, iterative set of steps that guide students through high-level problem solving. As an iterative process, the steps are often repeated in varying order. It is often compared to the scientific method, and tends to be as fluid as the method in its implementation. It is important to help students understand that, just like the scientific method, the engineering design process is not a cookie-cutter framework to be copied from each problem to the next. It is, instead, an iterative venture in which engineers approach the problem from multiple angles and frames of mind. 
 
