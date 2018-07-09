@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Online Course_ Project Guide.docx
 layout: post
 author: lsupathwaypreengineering
@@ -65,3 +66,14 @@ published: true
 2.  How could you increase the torque of your super slinger? What would increasing torque do to the distance of your launch?
 
 3.  Explain how you went through each step of the engineering design process while completing this lab by providing examples of what you did to create your super slinger. Use at least one sentence per step in your explanation.
+=======
+title: test
+layout: post
+author: lsupathwaypreengineering
+permalink: /untitled-document/
+source-id: 12TjRQmIhZJ68bjsUvfRDrSnqZ4WuEtHPbORsaODmbZo
+published: true
+---
+This is just a test! 
+
+>>>>>>> 0926c6935af98a092f6aedf0a6822e2cc24118bc
