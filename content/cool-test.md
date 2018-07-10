@@ -1,22 +1,5 @@
----
-title: Hello this is just a test
-share: https://docs.google.com/open?id=1LolN48u35wwXa8yyhEcUg02EXBLvwvBmuZXX4tIspfQ
-layout: post
-permalink: /untitled-document/
-source-id: 1LolN48u35wwXa8yyhEcUg02EXBLvwvBmuZXX4tIspfQ
-published: true
----
-## **Course Title**: Introduction to Engineering (Dual Enroll: ENG1050)
-
-### **Unit**: 3 – Engineering Design
-
-**Primary Subject Area and Grade Level:** 9-10
-
-**Contact Information:** 
-
-![image alt text](https://intro-to-engineering-design.lsupathways.org/images/Zgg2HaB3psCStszfM0fjUw_img_0.png)
-
-![image alt text](https://intro-to-engineering-design.lsupathways.org/images/Zgg2HaB3psCStszfM0fjUw_img_1.jpg)
+test test
+![image alt text](https://intro-to-engineering-design.lsupathways.org/images/Zgg2HaB3psCStszfM0fjUw_img_0.jpg)
 
 # Unit 3
 
