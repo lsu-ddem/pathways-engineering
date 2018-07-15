@@ -8,7 +8,7 @@ published: true
 ---
 ![image alt text](https://intro-to-engineering-design.lsupathways.org/images/xEO98HQn5y0xczXg64UTw_img_0.jpg)
 
-# Unit 3
+# Unit 2
 
 **Overview:**
 
