@@ -7,6 +7,8 @@ theme = "hugo-pathways-theme"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
+publishURL = "https://intro-to-engineering-design.lsupathways.org"
+
 [params]
   editURL = "https://github.com/lsu-ddem/pathways-site"
   description = "Educational material for Pre-Engineering"
