@@ -1,7 +1,7 @@
 ---
 title: Hello this is just a test
 share: https://docs.google.com/open?id=1LolN48u35wwXa8yyhEcUg02EXBLvwvBmuZXX4tIspfQ
-layout: https://intro-to-engineering-design.lsupathways.org
+layout: http://digital-storytelling.lsupathways.org
 permalink: /hello-this-is-just-a-test/
 source-id: 1LolN48u35wwXa8yyhEcUg02EXBLvwvBmuZXX4tIspfQ
 published: true
