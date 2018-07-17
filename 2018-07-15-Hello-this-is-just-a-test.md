@@ -6,7 +6,7 @@ permalink: /hello-this-is-just-a-test/
 source-id: 1LolN48u35wwXa8yyhEcUg02EXBLvwvBmuZXX4tIspfQ
 published: true
 ---
-![image alt text](http://www.google.com/images/xEO98HQn5y0xczXg64UTw_img_0.jpg)
+![image alt text](https://intro-to-engineering-design.lsupathways.org/images/xEO98HQn5y0xczXg64UTw_img_0.jpg)
 
 Unit 2
 
