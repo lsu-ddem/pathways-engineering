@@ -19,3 +19,16 @@ This course is designed to introduce the profession, ethics, and diversity of th
 
 * Use the engineering design process to create, test, and redesign discipline specific projects to gain better appreciation of the diverse engineering fields
 
+### Course Maps
+
+1 Semester - Dual Enrollment Fall or Spring
+
+* Click [here](https://docs.google.com/document/d/e/2PACX-1vQKlNdDzt8SejpfPXHYptKH5lh0i3hJB8IlA46vzszFHvSGARMBeNyuHgkP7cwx0gtZuJZLtI6zF-uX/pub) to view 
+
+* Click <a href="Course Syllabus - Intro to Engineering DE.pdf" download>here</a> to download
+
+Full Year - Dual Enrollment Spring (Optional)
+
+* Click [here](https://docs.google.com/document/d/e/2PACX-1vQ2NrNc5KfvJHuV5-zEYF-fB1-5n-fvz4cD9UbQgvZx0bFKVcB9zTMu1E_md0HQrtfdFvsvjNacNDTa/pub) to view 
+
+* Click <a href="Course Syllabus - Intro to Engineering Non-DE.pdf" download>here</a> to download
