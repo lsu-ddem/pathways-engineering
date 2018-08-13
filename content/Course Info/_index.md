@@ -1,12 +1,8 @@
 ---
-title: Course Information
+title: "Course Description"
 weight: 1
-share: https://docs.google.com/open?id=1XN1KVdRnUQnH6W3Eh316yjjpawEWie6poH4Rkc8rJ6k
-layout: https://intro-to-engineering-design.lsupathways.org
-permalink: /untitled-document/
-source-id: 1XN1KVdRnUQnH6W3Eh316yjjpawEWie6poH4Rkc8rJ6k
-published: true
 ---
+
 ## Introduction to Engineering – Dual Enrollment (1 Semester)
 
 ### **Course Description** 
