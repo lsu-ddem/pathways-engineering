@@ -12,7 +12,7 @@ weight: 1
 
 This unit introduces students to the course and teaches them about the importance of ethics in engineering.
 
-### [Lesson 1 (30-60 minutes)](https://intro-to-engineering-design.lsupathways.org/1_unit_1/1_lesson_1/):  
+### [Lesson 1 (30-60 minutes)](https://intro-to-engineering-design.lsupathways.org/1_unit_1/1_lesson_1/)
 
 In this lesson students will take a survey and a pre-test to determine prior knowledge.  After, this lesson will go over the overall format of the class, the syllabus and classroom policies.  This lesson will also teach students what engineering is and what engineers do. 
 
@@ -26,7 +26,7 @@ In this lesson students will take a survey and a pre-test to determine prior kno
 
 * Enumerate several career paths for engineers
 
-### [Lesson 2 (150-180 minutes)](https://intro-to-engineering-design.lsupathways.org/1_unit_1/1_lesson_1/)): 
+### [Lesson 2 (150-180 minutes)](https://intro-to-engineering-design.lsupathways.org/1_unit_1/1_lesson_1/) 
 
 This lesson will teach students about ethical decision making through hands on projects.
 
@@ -40,7 +40,7 @@ This lesson will teach students about ethical decision making through hands on p
 
 * Analyze and debate multiple solutions to an ethical dilemma, determine the best alternative available, and describe how the decision maximizes the benefit and minimizes the risk for everyone involved
 
-### [Lesson 3 (30 minutes)](https://intro-to-engineering-design.lsupathways.org/1_unit_1/1_lesson_1/)): 
+### [Lesson 3 (30 minutes)](https://intro-to-engineering-design.lsupathways.org/1_unit_1/1_lesson_1/) 
 
 Quiz on the unit
 
