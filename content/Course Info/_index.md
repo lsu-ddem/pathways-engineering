@@ -1,5 +1,6 @@
 ---
-title: "Unit 1 - Intro to Ethics"
+title: "Course Information"
+weight: 1;
 ---
 
 {{% children showhidden="true" depth="999" %}}
