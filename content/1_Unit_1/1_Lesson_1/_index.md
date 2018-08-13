@@ -10,7 +10,7 @@ Unit 1 - Lesson 1
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfLdh6zJ-8JoKgEbv_VmCgdsNQHJ4gnI8mbcO65p9zO9nM24UGAbiQiSK77URwiv5Z5vnxwWPm6CEl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**Click ****[her**e](https://docs.google.com/presentation/d/e/2PACX-1vQfLdh6zJ-8JoKgEbv_VmCgdsNQHJ4gnI8mbcO65p9zO9nM24UGAbiQiSK77URwiv5Z5vnxwWPm6CEl/pub?start=false&loop=false&delayms=3000)** to download the powerpoint**
+**Click** [here](https://docs.google.com/presentation/d/e/2PACX-1vQfLdh6zJ-8JoKgEbv_VmCgdsNQHJ4gnI8mbcO65p9zO9nM24UGAbiQiSK77URwiv5Z5vnxwWPm6CEl/pub?start=false&loop=false&delayms=3000) **to download the powerpoint**
 
-[Click to download Powerpoint](https://docs.google.com/presentation/d/1-LN7lBVz_wF-i73kcrYr1hEUgmnIPahzuqPzBgsJuII/edit?usp=sharing)
+
 
