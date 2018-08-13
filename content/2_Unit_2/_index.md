@@ -10,7 +10,9 @@ published: true
 
 This unit teaches students about work ethic, communication, and teamwork through lectures and interactive projects.
 
-### **Lesson 1 (30-60 minutes): **This lesson will teach students about effective communication and teamwork. 
+### [Lesson 1 (30-60 minutes)](http://intro-to-engineering-design.lsupathways.org/2_unit_2/1_lesson_1/2018-08-13-unit-2---lesson-1/)
+
+This lesson will teach students about effective communication and teamwork. 
 
 #### Outcomes
 
@@ -32,7 +34,9 @@ This unit teaches students about work ethic, communication, and teamwork through
 
 * Understand the advantages and disadvantages of teamwork
 
-### **Lesson 2 (150-180 minutes)**: Students will work through a Work Ethic dilemma with their groups.  They will learn what is important in working together and how they will be graded on their work ethic throughout the year. 
+### [Lesson 2 (150-180 minutes)](http://intro-to-engineering-design.lsupathways.org/2_unit_2/2_lesson_2/2018-08-13-unit-2---lesson-2/)
+
+Students will work through a Work Ethic dilemma with their groups.  They will learn what is important in working together and how they will be graded on their work ethic throughout the year. 
 
 #### Outcomes 
 
@@ -40,7 +44,9 @@ This unit teaches students about work ethic, communication, and teamwork through
 
 * Describe how a person's work ethic can be tested from situation to situation
 
-### **Lesson 3 (30 minutes): **Quiz on the unit
+### [Lesson 3 (30 minutes)](#) 
+
+Quiz on the unit
 
 #### Outcomes
 
