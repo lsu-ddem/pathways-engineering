@@ -40,7 +40,7 @@ This unit introduces students to the course and teaches them about the importanc
 
 * Enumerate several career paths for engineers
 
-### **Lesson 2 (150-180 minutes): **
+### Lesson 2 (150-180 minutes): 
 
 **This lesson will teach students about ethical decision making through hands on projects.**
 
@@ -54,7 +54,7 @@ This unit introduces students to the course and teaches them about the importanc
 
 * Analyze and debate multiple solutions to an ethical dilemma, determine the best alternative available, and describe how the decision maximizes the benefit and minimizes the risk for everyone involved
 
-### **Lesson 3 (30 minutes): **
+### Lesson 3 (30 minutes): 
 
 **Quiz on the unit**
 
