@@ -26,7 +26,9 @@ In this lesson students will take a survey and a pre-test to determine prior kno
 
 * Enumerate several career paths for engineers
 
-### [Lesson 2 (150-180 minutes)](https://intro-to-engineering-design.lsupathways.org/1_unit_1/1_lesson_1/)): **This lesson will teach students about ethical decision making through hands on projects.
+### [Lesson 2 (150-180 minutes)](https://intro-to-engineering-design.lsupathways.org/1_unit_1/1_lesson_1/)): 
+
+This lesson will teach students about ethical decision making through hands on projects.
 
 #### Outcomes
 
@@ -38,9 +40,11 @@ In this lesson students will take a survey and a pre-test to determine prior kno
 
 * Analyze and debate multiple solutions to an ethical dilemma, determine the best alternative available, and describe how the decision maximizes the benefit and minimizes the risk for everyone involved
 
-### [Lesson 3 (30 minutes)](https://intro-to-engineering-design.lsupathways.org/1_unit_1/1_lesson_1/)): **Quiz on the unit
+### [Lesson 3 (30 minutes)](https://intro-to-engineering-design.lsupathways.org/1_unit_1/1_lesson_1/)): 
 
-Outcomes
+Quiz on the unit
+
+#### Outcomes
 
 * Check for understanding
 
