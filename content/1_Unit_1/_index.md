@@ -7,8 +7,6 @@ source-id: 1zwyk_fz9a5dB33c6BvrBxLjM3oPlcxRFFCRy65d6uB0
 published: true
 weight: 1
 ---
-## Introduction to Engineering – Dual Enrollment (1 Semester)
-
 
 ## Unit 1: Ethics and the Field of Engineering (210-270 minutes)
 
@@ -18,7 +16,7 @@ This unit introduces students to the course and teaches them about the importanc
 
 In this lesson students will take a survey and a pre-test to determine prior knowledge.  After, this lesson will go over the overall format of the class, the syllabus and classroom policies.  This lesson will also teach students what engineering is and what engineers do. 
 
-Outcomes
+#### Outcomes
 
 * Discuss the overall format of the class
 
