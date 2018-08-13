@@ -8,7 +8,7 @@ published: true
 weight: 1
 ---
 
-## Unit 1: Ethics and the Field of Engineering (210-270 minutes)
+## Unit 1 (210-270 minutes) - Objective
 
 This unit introduces students to the course and teaches them about the importance of ethics in engineering.
 

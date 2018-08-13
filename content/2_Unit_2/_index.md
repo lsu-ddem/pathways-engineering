@@ -6,7 +6,7 @@ permalink: /unit-2-page/
 source-id: 1Bi0J2zWlHifZGPbXPpAUD1iXpFpY7pdsrWN5iqXidv8
 published: true
 ---
-## Unit 2: Communication, Teamwork, and Work Ethic (210-270 minutes)
+## Unit 2 (210-270 minutes) - Objective
 
 This unit teaches students about work ethic, communication, and teamwork through lectures and interactive projects.
 
