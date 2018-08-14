@@ -8,7 +8,7 @@ published: true
 weight: 1
 ---
 
-## Unit 1 (210-270 minutes) - Objective
+## Unit Objectives
 
 This unit introduces students to the course and teaches them about the importance of ethics in engineering.
 
