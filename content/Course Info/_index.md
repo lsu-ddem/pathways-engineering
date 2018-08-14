@@ -3,7 +3,7 @@ title: "Course Description"
 weight: 1
 ---
 
-## Introduction to Engineering – Dual Enrollment (1 Semester)
+## Introduction to Engineering
 
 ### **Course Description** 
 
