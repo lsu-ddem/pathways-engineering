@@ -29,9 +29,7 @@ Full Year - Dual Enrollment Spring (Optional)
 
 * Click <a href="../Course%2520Info/Course%20Syllabus%20-%20Intro%20to%20Engineering%20Non-DE.pdf" download>here</a> to download
 
-{{ partial "header.html" . }}
 
-{{.Content}}
 <h3>For access to google docs please fill out this form.</h3>
 <form name="contact" method="POST" netlify>
   <p>
@@ -53,5 +51,3 @@ Full Year - Dual Enrollment Spring (Optional)
     <button type="submit">Send</button>
   </p>
 </form>
-{{ partial "lesson-picker.html" . }}
-{{ partial "footer.html" . }}
