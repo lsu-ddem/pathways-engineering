@@ -10,6 +10,10 @@ published: true
 
 This unit teaches students about work ethic, communication, and teamwork through lectures and interactive projects.
 
+## Unit Teacher Notes
+
+Click <a href="https://docs.google.com/document/d/1mUM_eyD0E2XfdrCH64uMQhPRrIn1ZKY2ACEQTPcUmSE/edit?usp=sharing">here</a> to download the teacher notes for Unit 2.
+
 ### [Lesson 1 (30-60 minutes)](http://intro-to-engineering-design.lsupathways.org/2_unit_2/1_lesson_1/2018-08-13-unit-2---lesson-1/)
 
 This lesson will teach students about effective communication and teamwork. 
