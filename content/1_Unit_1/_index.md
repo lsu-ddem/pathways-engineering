@@ -40,7 +40,7 @@ This lesson will teach students about ethical decision making through hands on p
 
 * Analyze and debate multiple solutions to an ethical dilemma, determine the best alternative available, and describe how the decision maximizes the benefit and minimizes the risk for everyone involved
 
-### [Lesson 3 (30 minutes)](#)
+### [Lesson 3 (30 minutes)](http://intro-to-engineering-design.lsupathways.org/1_unit_1/3_lesson_3/)
 
 Quiz on the unit
 
