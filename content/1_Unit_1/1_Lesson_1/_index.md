@@ -13,3 +13,7 @@ published: true
 Click <a href="https://docs.google.com/presentation/d/1uC9tkPnJ6IX444WIEKv_hueETKsDCScI_-mCQ0Ck_JE/edit?usp=sharing" target="_blank">here</a> to download powerpoint.
 
 
+### Teacher Materials
+
+Click to download the <a href="../Student Handout - CrossWord Puzzle and Solution.pdf" download>teacher materials for this lesson</a>
+
