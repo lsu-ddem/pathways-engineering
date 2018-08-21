@@ -4,7 +4,7 @@ title: "Intro to Engineering Design"
 
 # Intro to Engineering Design
 
-## Syllabus
+## Syllabus LOL
 
 ### Dual Enrollment
 
