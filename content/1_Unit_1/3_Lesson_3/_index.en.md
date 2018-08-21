@@ -1,8 +1,11 @@
 ---
 title: Lesson 3
 weight: 3
-hidden: true
+hidden: false
+
 ---
 ### Lesson 3 - Quiz
 
-{{% link "https://drive.google.com/open?id=0B6rL2dUirhNfZUFGVl9RNXNYTGs" %}}
+Click to download the <a href="../Intro and Ethics Quiz Template.pdf" download>quiz</a> for this lesson
+
+Click to download the <a href="../Intro Quiz Bank.pdf" download>answers</a> to the quiz
