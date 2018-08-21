@@ -44,7 +44,7 @@ Students will work through a Work Ethic dilemma with their groups.  They will le
 
 * Describe how a person's work ethic can be tested from situation to situation
 
-### [Lesson 3 (30 minutes)](#) 
+### [Lesson 3 (30 minutes)](http://intro-to-engineering-design.lsupathways.org/2_unit_2/3_lesson_3/) 
 
 Quiz on the unit
 
