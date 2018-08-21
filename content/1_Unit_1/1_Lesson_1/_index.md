@@ -15,5 +15,4 @@ Click <a href="https://docs.google.com/presentation/d/1uC9tkPnJ6IX444WIEKv_hueET
 
 ### Teacher Materials
 
-Click to download the <a href="../Student Handout - CrossWord Puzzle and Solution.pdf" download>teacher materials for this lesson</a>
-
+Click to download the <a href="../Student Handout - CrossWord Puzzle and Solution.pdf" download>teacher materials</a> for this lesson
