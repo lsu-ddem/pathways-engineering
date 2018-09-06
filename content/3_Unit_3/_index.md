@@ -2,6 +2,7 @@
 title: Unit 3: Engineering Design Process (210-270 minutes)
 share: https://docs.google.com/open?id=1QYjjAacj0nFyG0OWZIXB3s6lKBz5XMGzdAMWtZ1xrnc
 layout: post
+weight: 1
 permalink: /unit-3:-engineering-design-process-(210-270-minutes)/
 source-id: 1QYjjAacj0nFyG0OWZIXB3s6lKBz5XMGzdAMWtZ1xrnc
 published: true
