@@ -6,8 +6,8 @@ weight: 1
 permalink: /unit-3:-engineering-design-process-(210-270-minutes)/
 source-id: 1QYjjAacj0nFyG0OWZIXB3s6lKBz5XMGzdAMWtZ1xrnc
 published: true
-
 ---
+
 ## Unit Objectives
 
 This unit introduces students to the engineering design process and involves them in creative problem solving.
