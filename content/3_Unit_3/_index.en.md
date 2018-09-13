@@ -39,7 +39,7 @@ Students use the engineering design process in creative problem solving.
 
 * Explain the reasons for their selected designs and material choices
 
-### [Lesson 3 (30 minutes)](#)
+### [Lesson 3 (30 minutes)](http://intro-to-engineering-design.lsupathways.org/3_unit_3/3_lesson_3/)
 
 * Quiz on the unit
 
