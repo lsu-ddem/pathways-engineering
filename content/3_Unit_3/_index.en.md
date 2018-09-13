@@ -2,7 +2,7 @@
 title: Unit 3 - Engineering Design Process 
 share: https://docs.google.com/open?id=1QYjjAacj0nFyG0OWZIXB3s6lKBz5XMGzdAMWtZ1xrnc
 layout: post
-weight: 1
+weight: 3
 source-id: 1QYjjAacj0nFyG0OWZIXB3s6lKBz5XMGzdAMWtZ1xrnc
 published: true
 ---
