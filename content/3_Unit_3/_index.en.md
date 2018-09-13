@@ -27,7 +27,7 @@ This lesson aims at introducing students to the engineering design process.
 
 * Identify and describe the parts of the engineering design process
 
-### [Lesson 2 (150-180 minutes)](#)
+### [Lesson 2 (150-180 minutes)](http://intro-to-engineering-design.lsupathways.org/3_unit_3/2_lesson_2/)
 
 Students use the engineering design process in creative problem solving.
 
