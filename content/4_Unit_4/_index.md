@@ -1,5 +1,5 @@
 ---
-title: "Unit 4 - Engineering Disciplines"
+title: "Engineering Disciplines"
 weight: 4
 ---
 
