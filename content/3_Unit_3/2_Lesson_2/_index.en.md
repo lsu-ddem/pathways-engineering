@@ -1,7 +1,6 @@
 ---
 title: Lesson 2
 weight: 2
-hidden: true
 ---
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeCewJGqkCvKhUevWXb8M0s5IX99o5U6NIx3OWQYBUJznoIbFgZtEHEY7hHwlC_zaNt18KxgzgtxvQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
