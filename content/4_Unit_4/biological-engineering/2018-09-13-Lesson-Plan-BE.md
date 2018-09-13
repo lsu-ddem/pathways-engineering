@@ -49,8 +49,6 @@ A reflection should be completed at the end of each lesson.
 
 ### Relevance/Rationale/Explorations and Extensions
 
-                                           	
-
 Biological engineering is one of many engineering fields.  It is one of ten primary engineering majors offered at Louisiana State University.  Learning about the type of work done by biological engineers and executing a project allows the students to see if biological engineering is a possible career choice that they would like to pursue in greater depth. 
 
 ### Assessment Criteria for Success:
