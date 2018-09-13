@@ -15,7 +15,7 @@ This unit introduces students to the engineering design process and involves the
 
 Click <a href="https://docs.google.com/document/d/1M1tIBcjwsaXn7P2Hqja_UWaK8lCEdabBjadssJKbaQs/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for Unit 2.
 
-### **Lesson 1 (30-60 minutes)** 
+### [Lesson 1 (30-60 minutes)]()
 
 This lesson aims at introducing students to the engineering design process.
 
@@ -27,7 +27,7 @@ This lesson aims at introducing students to the engineering design process.
 
 * Identify and describe the parts of the engineering design process
 
-### **Lesson 2 (150-180 minutes)**
+### [Lesson 2 (150-180 minutes)]()
 
 Students use the engineering design process in creative problem solving.
 
@@ -39,7 +39,7 @@ Students use the engineering design process in creative problem solving.
 
 * Explain the reasons for their selected designs and material choices
 
-### **Lesson 3 (30 minutes) 
+### [Lesson 3 (30 minutes)]()
 
 * Quiz on the unit
 
