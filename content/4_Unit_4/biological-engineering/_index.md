@@ -7,8 +7,6 @@ published: true
 weight: 1
 ---
 
-# **Unit: **Biological Engineering
-
 ## **Primary Subject Area and Grade Level:** 9-10
 
 ## Overview
