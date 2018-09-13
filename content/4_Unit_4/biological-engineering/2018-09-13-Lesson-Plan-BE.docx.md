@@ -1,12 +1,11 @@
 ---
-title: Lesson Plan BE.docx
+title: Biological Engineering
 share: https://docs.google.com/open?id=1_Oj0X2NWdh_Qfn78quKXRVr_NNRDRHLwQ4IsGETkBsc
 layout: post
 permalink: /lesson-plan-be.docx/
 source-id: 1_Oj0X2NWdh_Qfn78quKXRVr_NNRDRHLwQ4IsGETkBsc
 published: true
 ---
-**Course Title: **Introduction to Engineering (Dual Enroll: ENG1050)
 
 # **Unit: **Biological Engineering
 
