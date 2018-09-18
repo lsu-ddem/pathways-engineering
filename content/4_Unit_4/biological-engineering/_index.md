@@ -25,26 +25,6 @@ This unit teaches students about the field of biological engineering. Students w
 
 210 to 270 minutes
 
-### Materials
-
-Specified in each day's lesson. 
-
-### Preparing to teach
-
-Specified in each day's lesson. 
-
-### Learning Activities
-
-Specified in each day's lesson.
-
-### Student Handouts
-
-Provided for each lesson.
-
-### Implementation Feedback
-
-A reflection should be completed at the end of each lesson.
-
 ### Relevance/Rationale/Explorations and Extensions
 
 Biological engineering is one of many engineering fields.  It is one of ten primary engineering majors offered at Louisiana State University.  Learning about the type of work done by biological engineers and executing a project allows the students to see if biological engineering is a possible career choice that they would like to pursue in greater depth. 
