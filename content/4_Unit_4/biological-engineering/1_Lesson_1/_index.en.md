@@ -1,11 +1,10 @@
 ---
 title: Lesson 1 - Introduction
 chapter: true
-# pre: "<b>1. </b>"
 weight: 1
-# hidden: true
+hidden: false
 ---
 
 ### Lesson 1 - Introduction
 
-{{% link "https://drive.google.com/open?id=0B-GW488Ei2OLd2QtMzdsd3BMSlU" %}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KQm-gfobUm8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
