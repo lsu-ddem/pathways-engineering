@@ -33,30 +33,18 @@ engineers do.
 This lesson will teach students about ethical decision making through hands on projects.
 
 ### Outcomes
-* Demonstrate an understanding of academic honesty 
+* Demonstrate an understanding of academic honesty ethics, and ethics pertaining to the profession of engineer
 
-ethics, and ethics pertaining to the profession of 
+* Gain a better understanding of the variety of factors that influence and cloud a person's judgement when faced with an ethical dilemma
 
-engineer
+* Understand the bases for making ethical decisions
 
-* Gain a better understanding of the variety of 
-
-factors that influence and cloud a person's judgement 
-
-when faced with an ethical dilemma
-
-Understand the bases for making ethical decisions
-
-Analyze and debate multiple solutions to an ethical 
-
-dilemma, determine the best alternative available, 
-
-and describe how the decision maximizes the benefit 
-
-and minimizes the risk for everyone involved
+* Analyze and debate multiple solutions to an ethical dilemma, determine the best alternative available, and describe how the decision maximizes the benefit and minimizes the risk for everyone involved
 
 ## Lesson 3 (30 minutes): 
-Quiz on the unit
-Outcomes
-Check for understanding
+* Quiz on the unit
+
+* Outcomes
+
+* Check for understanding
 
