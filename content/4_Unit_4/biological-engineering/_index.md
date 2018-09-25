@@ -21,11 +21,11 @@ This unit teaches students about the field of biological engineering. Students w
 
 ### Expected Lesson Duration
 
-* [Lesson 1](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/1_lesson_1/) 30 - 60 minutes
+[Lesson 1:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/1_lesson_1/) 30 - 60 minutes
 
-* [Lesson 2](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/2_lesson_2/) 150 - 180 minutes
+[Lesson 2:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/2_lesson_2/) 150 - 180 minutes
 
-* [Lesson 3](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/3_lesson_3/) 30 - 60 minutes
+[Lesson 3:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/3_lesson_3/) 30 - 60 minutes
 
 ### Relevance/Rationale/Explorations and Extensions
 
