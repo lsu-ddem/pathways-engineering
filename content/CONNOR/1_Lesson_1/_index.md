@@ -55,7 +55,7 @@ and describe how the decision maximizes the benefit
 
 and minimizes the risk for everyone involved
 
-Lesson 3 (30 minutes): 
+## Lesson 3 (30 minutes): 
 Quiz on the unit
 Outcomes
 Check for understanding
