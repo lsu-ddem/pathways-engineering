@@ -15,11 +15,7 @@ This unit introduces students to the course and teaches them about the importanc
 ## Lesson 1 (30-60 minutes):  
 In this lesson students will take a survey and a 
 
-pre-test to determine prior knowledge.  After, this 
-
-lesson will go over the overall format of the class, the syllabus and classroom policies.  This lesson will also teach students what engineering is and what 
-
-engineers do.
+pre-test to determine prior knowledge.  After, this lesson will go over the overall format of the class, the syllabus and classroom policies. This lesson will also teach students what engineering is and what engineers do.
 ### Outcomes
 * Discuss the overall format of the class
 
