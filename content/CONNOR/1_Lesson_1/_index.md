@@ -13,8 +13,10 @@ published: true
 This unit introduces students to the course and teaches them about the importance of ethics in engineering.
 
 ## [Lesson 1 (30-60 minutes)](#):  
-In this lesson students will take a survey and a 
 
+click <a href="https://docs.google.com/presentation/d/1uC9tkPnJ6IX444WIEKv_hueETKsDCScI_-mCQ0Ck_JE/edit?usp=sharing" target="_blank">here</a>
+
+In this lesson students will take a survey and a 
 pre-test to determine prior knowledge.  After, this lesson will go over the overall format of the class, the syllabus and classroom policies. This lesson will also teach students what engineering is and what engineers do.
 ### Outcomes
 * Discuss the overall format of the class
@@ -44,3 +46,4 @@ This lesson will teach students about ethical decision making through hands on p
 
 * Check for understanding
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfLdh6zJ-8JoKgEbv_VmCgdsNQHJ4gnI8mbcO65p9zO9nM24UGAbiQiSK77URwiv5Z5vnxwWPm6CEl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
