@@ -7,8 +7,6 @@ published: true
 weight: 1
 ---
 
-## **Primary Subject Area and Grade Level:** 9-10
-
 ## Overview
 
 This unit teaches students about the field of biological engineering. Students will hear a guest presentation about the opportunities available in the field of biological engineering.  Students will then complete a hands on project related to biological engineering.  Students will present the results of their project, write a lab report and take a quiz related biological engineering.
