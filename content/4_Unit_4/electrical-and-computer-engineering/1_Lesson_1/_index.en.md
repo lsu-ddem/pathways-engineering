@@ -7,4 +7,6 @@ weight: 1
 
 ### Lesson 1 - Introduction
 
-{{% link "https://drive.google.com/open?id=0B6TNTjwVMgaHZ3Nqa3oyZ2RYR2c" %}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QQewdCJTcIU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/avZTQgLs064" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
