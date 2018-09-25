@@ -11,7 +11,7 @@ weight: 7
 
 This unit introduces students to the course and teaches them about the importance of ethics in engineering.
 
-## Lesson 1 (30-60 minutes):  
+## [Lesson 1 (30-60 minutes)](#):  
 
 In this lesson students will take a survey and a pre-test to determine prior knowledge.  After, this lesson will go over the overall format of the class, the syllabus and classroom policies.  This lesson will also teach students what engineering is and what engineers do. 
 
