@@ -31,9 +31,9 @@ Students use the engineering design process in creative problem solving.
 
 #### Outcomes 
 
-*Use the engineering design process to solve the problem
-*Employ the use of data collection and analysis to help solve the problem
-*Explain the reasons for their selected designs and material choices
+* Use the engineering design process to solve the problem
+* Employ the use of data collection and analysis to help solve the problem
+* Explain the reasons for their selected designs and material choices
 
 #### NGSS Standards
 
@@ -55,6 +55,6 @@ Students use the engineering design process in creative problem solving.
 ### [Lesson 3 (30 minutes)](http://intro-to-engineering-design.lsupathways.org/ty/3_lesson_3/) 
 Quiz on the unit
 
-##### Outcomes
+#### Outcomes
 * Check for understanding
 
