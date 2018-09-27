@@ -35,7 +35,7 @@ Click <a href="https://docs.google.com/document/d/1M1tIBcjwsaXn7P2Hqja_UWaK8lCEd
 ### NGSS Standards
 * HS-ETS1-2  Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.
 
-*HS-ETS1-3  Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics as well as possible social, cultural, and environmental impacts.
+* HS-ETS1-3  Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics as well as possible social, cultural, and environmental impacts.
  
 ### NGSS Disciplinary Core Ideas
 * ETS.HS.1B.a  When evaluating solutions it is important to take into account a range of constraints including cost, safety, reliability and aesthetics and to consider social, cultural and environmental impacts.  
