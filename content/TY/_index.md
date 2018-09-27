@@ -55,6 +55,6 @@ Students use the engineering design process in creative problem solving.
 ### [Lesson 3 (30 minutes)](http://intro-to-engineering-design.lsupathways.org/ty/3_lesson_3/) 
 Quiz on the unit
 
-##### Outcomes
+#### Outcomes
 * Check for understanding
 
