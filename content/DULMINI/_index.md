@@ -17,7 +17,7 @@ This unit introduces students to the engineering design process and involves the
 
 click <a href= "https://docs.google.com/document/d/1M1tIBcjwsaXn7P2Hqja_UWaK8lCEdabBjadssJKbaQs/edit?usp=sharing" target="_blank">here</a> for teacher notes on unit 3
 
-### Lesson 1 (30-60 minutes): This lesson aims at introducing students to the engineering design process.
+### <a href= "http://intro-to-engineering-design.lsupathways.org/dulmini/1_lesson_1/" target="_blank">Lesson 1 (30-60 minutes): This lesson aims at introducing students to the engineering design process.</a> 
 
 
 #### Outcomes 
