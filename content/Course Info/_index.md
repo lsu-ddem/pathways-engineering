@@ -19,35 +19,18 @@ This course is designed to introduce the profession, ethics, and diversity of th
 
 * Use the engineering design process to create, test, and redesign discipline specific projects to gain better appreciation of the diverse engineering fields
 
+### Course and Unit Descriptions - Standards Alignment
+
+Click <a href="https://docs.google.com/document/d/1qKn_ArctbJpHPSZX6nTyeFJkkW2HtYdrRkhN1IVs7rE/edit?usp=sharing" target="_blank"></a>
+
 ### Course Maps
 
 1 Semester - Dual Enrollment Fall or Spring
 
-* Click <a href="../Course%2520Info/Course%20Syllabus%20-%20Intro%20to%20Engineering%20DE.pdf" download>here</a> to download
+* Click <a href="https://docs.google.com/document/d/1f0tv4p20FIVATXXZnoKQn-Xm0qaV0bYnNMFl-Xn9tDM/edit?usp=sharing" target="_blank">here</a> to download
 
 Full Year - Dual Enrollment Spring (Optional)
 
-* Click <a href="../Course%2520Info/Course%20Syllabus%20-%20Intro%20to%20Engineering%20Non-DE.pdf" download>here</a> to download
+* Click <a href="https://docs.google.com/document/d/1IaJtXN7tI5c0npKQMWH2BtruQP6953iaudqw9GwQdeA/edit?usp=sharing" target="_blank">here</a> to download
 
 
-<h3>For access to google docs please fill out this form.</h3>
-<form name="contact" method="POST" netlify>
-  <p>
-    <label>Your Name:
-      <input type="text" name="name">
-    </label>
-  </p>
-  <p>
-    <label>Your Email:
-      <input type="email" name="email">
-    </label>
-  </p>
-  <p>
-    <label>Message:
-      <textarea name="message"></textarea>
-    </label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
