@@ -12,3 +12,16 @@ published: true
 ## Teacher Materials
 
 CLick <a href= "https://docs.google.com/presentation/d/1uC9tkPnJ6IX444WIEKv_hueETKsDCScI_-mCQ0Ck_JE/edit?usp=sharing" target = "_blank" >here</a> 
+
+## Student Materials
+
+There are no student materials for this lesson.
+
+
+## Project
+
+Click <a href= "https://docs.google.com/document/d/1Tat_tXhdTXpnWlNSAB96dZ2FqeYZHhEKhDrxcQm6KSI/edit?usp=sharing" target = "_blank">here</a> to download teacher notes for the project
+
+Click <a href= "https://docs.google.com/document/d/1LBgSNsWTTMrDodzLLmh71t74ZKaUHheZqxcKldEYdgA/edit?usp=sharing" target = "_blank">here</a> to download student handout for the project
+
+

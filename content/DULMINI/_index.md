@@ -7,49 +7,6 @@ source-id: 1zwyk_fz9a5dB33c6BvrBxLjM3oPlcxRFFCRy65d6uB0
 published: true
 weight: 7
 ---
-### Unit 1: Ethics and the Field of Engineering (210-270 minutes)
-
-This unit introduces students to the course and teaches them about the importance of ethics in engineering.
-
-## [Lesson 1 (30-60 minutes)](#):  
-
-In this lesson students will take a survey and a pre-test to determine prior knowledge.  After, this lesson will go over the overall format of the class, the syllabus and classroom policies.  This lesson will also teach students what engineering is and what engineers do. 
-
-### Outcomes
-
-* Discuss the overall format of the class
-
-* Define engineering and what engineers do
-
-* Describe what some engineering disciplines do 
-
-* Enumerate several career paths for engineers
- 
-
-## Lesson 2 (150-180 minutes): 
-
-* This lesson will teach students about ethical decision making through hands on projects.
-Outcomes
-
-* Demonstrate an understanding of academic honesty ethics, and ethics pertaining to the profession of engineer
-
-
-* Gain a better understanding of the variety of factors that influence and cloud a person's judgement when faced with an ethical dilemma
-
-* Understand the bases for making ethical decisions
-
-* Analyze and debate multiple solutions to an ethical dilemma, determine the best alternative available, and describe how the decision maximizes the benefit and minimizes the risk for everyone involved
-
-
-### Lesson 3 (30 minutes): 
-
-Quiz on the unit
-
-
-### Outcomes
-
-Check for understanding
-
 
 
 ## Unit 3: Engineering Design Process (210-270 minutes)
@@ -60,20 +17,20 @@ This unit introduces students to the engineering design process and involves the
 
 click <a href= "https://docs.google.com/document/d/1M1tIBcjwsaXn7P2Hqja_UWaK8lCEdabBjadssJKbaQs/edit?usp=sharing" target="_blank">here</a> for teacher notes on unit 3
 
-## Lesson 1 (30-60 minutes): This lesson aims at introducing students to the engineering design process.
+### Lesson 1 (30-60 minutes): This lesson aims at introducing students to the engineering design process.
 
 
-### Outcomes 
+#### Outcomes 
 
 * Learn how design impacts product performance
 * Understand the difference in an innovation and an invention
 * Identify and describe the parts of the engineering design process
 
 
-## Lesson 2 (150-180 minutes): Students use the engineering design process in creative problem solving.
+### Lesson 2 (150-180 minutes): Students use the engineering design process in creative problem solving.
 
 
-### Outcomes 
+#### Outcomes 
 
 * Use the engineering design process to solve the problem
 
