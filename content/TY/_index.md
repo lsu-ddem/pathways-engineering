@@ -23,7 +23,7 @@ In this lesson students will take a survey and a pre-test to determine prior kno
 * Describe what some engineering disciplines do 
 * Enumerate several career paths for engineers
 
-### Lesson 2 (150-180 minutes): 
+### [Lesson 2 (150-180 minutes):] (#) 
 
 This lesson will teach students about ethical decision making through hands on projects.
 
@@ -42,7 +42,7 @@ This lesson will teach students about ethical decision making through hands on p
 
 * SL.9-10.4  Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task.
 
-### Lesson 3 (30 minutes): Quiz on the unit
+### [Lesson 3 (30 minutes): Quiz on the unit] (https://www.google.com/)
 
 #### Outcomes
 * Check for understanding
