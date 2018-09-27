@@ -34,7 +34,7 @@ This lesson will teach students about ethical decision making through hands on p
 * Understand the bases for making ethical decisions
 * Analyze and debate multiple solutions to an ethical dilemma, determine the best alternative available, and describe how the decision maximizes the benefit and minimizes the risk for everyone involved.
 
-##### Common Core Standards
+#### Common Core Standards
 
 * SL.9-10.1.C  Propel conversations by posing and responding to questions that relate the current discussion to broader themes or larger ideas; actively incorporate others into the discussion; and clarify, verify, or challenge ideas and conclusions.
 
@@ -47,4 +47,4 @@ This lesson will teach students about ethical decision making through hands on p
 #### Outcomes
 * Check for understanding
 
-
+click <a href="https://www.google.com/" target="_blank">here</a>
