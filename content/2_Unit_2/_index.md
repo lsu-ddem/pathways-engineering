@@ -53,6 +53,12 @@ Students will work through a Work Ethic dilemma with their groups.  They will le
 
 * Describe how a person's work ethic can be tested from situation to situation
 
+#### Common Core Standards
+
+* RST.11-12.9  Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible. 
+
+* SL.9-10.4  Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task.
+
 ### [Lesson 3 (30 minutes)](http://intro-to-engineering-design.lsupathways.org/2_unit_2/3_lesson_3/) 
 
 Quiz on the unit
