@@ -7,17 +7,25 @@ published: true
 weight: 1
 ---
 
-## Overview
+### Overview
 
-This unit teaches students about the field of biological engineering. Students will hear a guest presentation about the opportunities available in the field of biological engineering.  Students will then complete a hands on project related to biological engineering.  Students will present the results of their project, write a lab report and take a quiz related biological engineering.
+* Following the steps of the engineering design process and acting as robotics engineer, student teams will use drinking straws to design and build a robotic hand. This robotic hand will mimic the way human fingers work: tendons bend the fingers while the muscles in the forearm control the action.
 
 ### Outcomes
 
-1. Demonstrate an awareness of the connections between biological engineering and the wider world.
+* To understand the physiology of the human hand and learn how human fingers work. 
 
-2. Conduct design based projects to gain better appreciation of biological engineering.
+* To apply the engineering design process to design a working hand.
 
-3. Demonstrate effective communication skills through teamwork, oral presentations, and good written communication.
+* To design and build a working hand out of craft materials that demonstrates how a real robot hand might work.
+ 
+#### NGSS Standards
+
+* HS-LS1-2  Develop and use a model to illustrate the hierarchical organization of interacting systems that provide specific functions within multicellular organisms.
+ 
+### NGSS Disciplinary Core Ideas
+
+* HS.LS1A.b  Multicellular organisms have a hierarchical structural organization, in which any one system is made up of numerous parts and is itself a component of the next level. 
 
 ### Expected Lesson Duration
 
@@ -26,12 +34,3 @@ This unit teaches students about the field of biological engineering. Students w
 [Lesson 2:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/2_lesson_2/) 150 - 180 minutes
 
 [Lesson 3:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/3_lesson_3/) 30 - 60 minutes
-
-### Relevance/Rationale/Explorations and Extensions
-
-Biological engineering is one of many engineering fields.  It is one of ten primary engineering majors offered at Louisiana State University.  Learning about the type of work done by biological engineers and executing a project allows the students to see if biological engineering is a possible career choice that they would like to pursue in greater depth. 
-
-### Assessment Criteria for Success:
-
-Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. Student learning will be assessed throughout the lesson via discussion based questions, project presentations, lab report, peer evaluations, and quizzes. Students will have successfully met the outcomes when fundamental questions about the importance of biological engineering can be observed through their own work and their peers' work. 
-
