@@ -14,7 +14,7 @@ This unit introduces students to the engineering design process and involves the
 ## Unit Teacher Notes
 Click <a href="https://docs.google.com/document/d/1M1tIBcjwsaXn7P2Hqja_UWaK8lCEdabBjadssJKbaQs/edit?usp=sharing" target="_blank">here</a> for teacher notes.
 
-## <a href="http://intro-to-engineering-design.lsupathways.org/connor/1_lesson_1/" target="_blank">Lesson 1 (30-60 minutes)</a>
+## <a href="http://intro-to-engineering-design.lsupathways.org/connor/1_lesson_1/">Lesson 1 (30-60 minutes)</a>
 
 This lesson aims at introducing students to the engineering design process.
 
@@ -25,7 +25,7 @@ This lesson aims at introducing students to the engineering design process.
 
 * Identify and describe the parts of the engineering design process
 
-## <a href="http://intro-to-engineering-design.lsupathways.org/connor/2_lesson_2/2018-08-13-unit-1---lesson-2/" target="_blank">Lesson 2 (150-180 minutes)</a>
+## <a href="http://intro-to-engineering-design.lsupathways.org/connor/2_lesson_2/2018-08-13-unit-1---lesson-2/">Lesson 2 (150-180 minutes)</a>
 
 Students use the engineering design process in creative problem solving.
 
@@ -54,7 +54,7 @@ Students use the engineering design process in creative problem solving.
 * W.9-10.4  Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience. 
 
 
-## <a href="http://intro-to-engineering-design.lsupathways.org/connor/3_lesson_3/" target="_blank">Lesson 3 (30 minutes)</a>
+## <a href="http://intro-to-engineering-design.lsupathways.org/connor/3_lesson_3/">Lesson 3 (30 minutes)</a>
 
 Quiz on the unit
 
