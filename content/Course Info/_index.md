@@ -21,7 +21,7 @@ This course is designed to introduce the profession, ethics, and diversity of th
 
 ### Course and Unit Descriptions - Standards Alignment
 
-Click <a href="https://docs.google.com/document/d/1qKn_ArctbJpHPSZX6nTyeFJkkW2HtYdrRkhN1IVs7rE/edit?usp=sharing" target="_blank"></a>
+Click <a href="https://docs.google.com/document/d/1qKn_ArctbJpHPSZX6nTyeFJkkW2HtYdrRkhN1IVs7rE/edit?usp=sharing" target="_blank">here</a> to download the full course description.
 
 ### Course Maps
 
