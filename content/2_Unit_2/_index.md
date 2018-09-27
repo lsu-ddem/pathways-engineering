@@ -39,6 +39,10 @@ This lesson will teach students about effective communication and teamwork.
 
 * Understand the advantages and disadvantages of teamwork
 
+#### Common Core Standards
+
+* SL.9-10.1.B  Work with peers to set rules for collegial discussions and decision-making (e.g., informal consensus, taking votes on key issues, presentation of alternate views), clear goals and deadlines, and individual roles as needed.
+
 ### [Lesson 2 (150-180 minutes)](http://intro-to-engineering-design.lsupathways.org/2_unit_2/2_lesson_2/2018-08-13-unit-2---lesson-2/)
 
 Students will work through a Work Ethic dilemma with their groups.  They will learn what is important in working together and how they will be graded on their work ethic throughout the year. 
@@ -48,6 +52,12 @@ Students will work through a Work Ethic dilemma with their groups.  They will le
 * Define the term work ethic, and the characteristics of having a strong work ethic
 
 * Describe how a person's work ethic can be tested from situation to situation
+
+#### Common Core Standards
+
+* RST.11-12.9  Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible. 
+
+* SL.9-10.4  Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task.
 
 ### [Lesson 3 (30 minutes)](http://intro-to-engineering-design.lsupathways.org/2_unit_2/3_lesson_3/) 
 

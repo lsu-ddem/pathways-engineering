@@ -44,6 +44,14 @@ This lesson will teach students about ethical decision making through hands on p
 
 * Analyze and debate multiple solutions to an ethical dilemma, determine the best alternative available, and describe how the decision maximizes the benefit and minimizes the risk for everyone involved
 
+#### Common Core Standards
+
+* SL.9-10.1.C  Propel conversations by posing and responding to questions that relate the current discussion to broader themes or larger ideas; actively incorporate others into the discussion; and clarify, verify, or challenge ideas and conclusions.
+
+* RST.11-12.9  Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible. 
+
+* SL.9-10.4  Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task.
+
 ### [Lesson 3 (30 minutes)](http://intro-to-engineering-design.lsupathways.org/1_unit_1/3_lesson_3/)
 
 Quiz on the unit
