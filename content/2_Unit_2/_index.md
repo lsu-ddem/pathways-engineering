@@ -39,6 +39,10 @@ This lesson will teach students about effective communication and teamwork.
 
 * Understand the advantages and disadvantages of teamwork
 
+#### Common Core Standards:
+
+* SL.9-10.1.B  Work with peers to set rules for collegial discussions and decision-making (e.g., informal consensus, taking votes on key issues, presentation of alternate views), clear goals and deadlines, and individual roles as needed.
+
 ### [Lesson 2 (150-180 minutes)](http://intro-to-engineering-design.lsupathways.org/2_unit_2/2_lesson_2/2018-08-13-unit-2---lesson-2/)
 
 Students will work through a Work Ethic dilemma with their groups.  They will learn what is important in working together and how they will be graded on their work ethic throughout the year. 
