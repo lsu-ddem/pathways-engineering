@@ -8,10 +8,10 @@ published: true
 weight: 6
 ---
 
-# Unit Objectives
+## Unit Objectives
 This unit introduces students to the engineering design process and involves them in creative problem solving.
 
-## Teacher Notes
+## Unit Teacher Notes
 Click <a href="https://docs.google.com/document/d/1M1tIBcjwsaXn7P2Hqja_UWaK8lCEdabBjadssJKbaQs/edit?usp=sharing" target="_blank">here</a> for teacher notes.
 
 ## <a href="http://intro-to-engineering-design.lsupathways.org/connor/1_lesson_1/" target="_blank">Lesson 1 (30-60 minutes)</a>

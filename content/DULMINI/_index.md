@@ -41,7 +41,7 @@ Outcomes
 * Analyze and debate multiple solutions to an ethical dilemma, determine the best alternative available, and describe how the decision maximizes the benefit and minimizes the risk for everyone involved
 
 
-# Lesson 3 (30 minutes): 
+### Lesson 3 (30 minutes): 
 
 Quiz on the unit
 
@@ -50,9 +50,15 @@ Quiz on the unit
 
 Check for understanding
 
-# Unit 3: Engineering Design Process (210-270 minutes)
+
+
+## Unit 3: Engineering Design Process (210-270 minutes)
 
 This unit introduces students to the engineering design process and involves them in creative problem solving.
+
+### Teacher Notes
+
+click <a href= "https://docs.google.com/document/d/1M1tIBcjwsaXn7P2Hqja_UWaK8lCEdabBjadssJKbaQs/edit?usp=sharing" target="_blank">here</a> for teacher notes on unit 3
 
 ## Lesson 1 (30-60 minutes): This lesson aims at introducing students to the engineering design process.
 
