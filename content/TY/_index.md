@@ -8,11 +8,16 @@ published: true
 weight: 8
 ---
 
-### Unit 3: Engineering Design Process (210-270 minutes)
+# Unit 3: Engineering Design Process (210-270 minutes)
+
+## Unit Objectives
 
 This unit introduces students to the engineering design process and involves them in creative problem solving.
 
-### Lesson 1 (30-60 minutes): 
+## Unit Teacher Notes
+Click <a href="https://docs.google.com/document/d/1M1tIBcjwsaXn7P2Hqja_UWaK8lCEdabBjadssJKbaQs/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for Unit 3
+    
+### [Lesson 1 (30-60 minutes)](http://intro-to-engineering-design.lsupathways.org/ty/1_lesson_1/) 
 This lesson aims at introducing students to the engineering design process.
 
 #### Outcomes 
@@ -21,7 +26,7 @@ This lesson aims at introducing students to the engineering design process.
 * Understand the difference in an innovation and an invention
 * Identify and describe the parts of the engineering design process
 
-### Lesson 2 (150-180 minutes): 
+### [Lesson 2 (150-180 minutes)](http://intro-to-engineering-design.lsupathways.org/ty/2_lesson_2/2018-08-13-unit-1---lesson-2/) 
 Students use the engineering design process in creative problem solving.
 
 #### Outcomes 
@@ -47,7 +52,7 @@ Students use the engineering design process in creative problem solving.
 * W.9-10.4  Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience. 
 
 
-### Lesson 3 (30 minutes): 
+### [Lesson 3 (30 minutes)](http://intro-to-engineering-design.lsupathways.org/ty/3_lesson_3/) 
 Quiz on the unit
 
 ##### Outcomes
