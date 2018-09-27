@@ -46,7 +46,7 @@ Outcomes
 Quiz on the unit
 
 
-## Outcomes
+### Outcomes
 
 Check for understanding
 
@@ -57,7 +57,7 @@ This unit introduces students to the engineering design process and involves the
 ## Lesson 1 (30-60 minutes): This lesson aims at introducing students to the engineering design process.
 
 
-## Outcomes 
+### Outcomes 
 
 * Learn how design impacts product performance
 * Understand the difference in an innovation and an invention
@@ -67,7 +67,7 @@ This unit introduces students to the engineering design process and involves the
 ## Lesson 2 (150-180 minutes): Students use the engineering design process in creative problem solving.
 
 
-## Outcomes 
+### Outcomes 
 
 * Use the engineering design process to solve the problem
 
@@ -76,20 +76,20 @@ This unit introduces students to the engineering design process and involves the
 * Explain the reasons for their selected designs and material choices
 
 
-## NGSS Standards
+### NGSS Standards
 
 * HS-ETS1-2  Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.
 
 * HS-ETS1-3  Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics as well as possible social, cultural, and environmental impacts.
  
-## NGSS Disciplinary Core Ideas
+### NGSS Disciplinary Core Ideas
 
 * ETS.HS.1B.a  When evaluating solutions it is important to take into account a range of constraints including cost, safety, reliability and aesthetics and to consider social, cultural and environmental impacts.  
 
 * ETS.HS.1B.b  Both physical models and computers can be used in various ways to aid in the engineering design process. 
  
 
-## Common Core Standards
+### Common Core Standards
 
 * RST.11-12.9  Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible. 
 
@@ -97,10 +97,7 @@ This unit introduces students to the engineering design process and involves the
 W.9-10.4  Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience. 
 
 
-# Lesson 3 (30 minutes): Quiz on the unit
-
-Outcomes
-Check for understanding
+click <a href="https://docs.google.com/document/d/1qKn_ArctbJpHPSZX6nTyeFJkkW2HtYdrRkhN1IVs7rE/edit?usp=sharing" target="_blank">here</a> to view the course and unit descriptions
 
 
 
