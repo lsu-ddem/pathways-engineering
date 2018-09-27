@@ -11,4 +11,4 @@ published: true
 
 ## Teacher Materials
 
-CLick here <a href= "https://docs.google.com/presentation/d/1uC9tkPnJ6IX444WIEKv_hueETKsDCScI_-mCQ0Ck_JE/edit?usp=sharing" target = "_blank"></a> 
+CLick here <a href= "https://docs.google.com/presentation/d/1uC9tkPnJ6IX444WIEKv_hueETKsDCScI_-mCQ0Ck_JE/edit?usp=sharing" target = "_blank" >Here</a> 
