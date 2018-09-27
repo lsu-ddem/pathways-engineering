@@ -39,7 +39,7 @@ This lesson will teach students about effective communication and teamwork.
 
 * Understand the advantages and disadvantages of teamwork
 
-#### Common Core Standards:
+#### Common Core Standards
 
 * SL.9-10.1.B  Work with peers to set rules for collegial discussions and decision-making (e.g., informal consensus, taking votes on key issues, presentation of alternate views), clear goals and deadlines, and individual roles as needed.
 
