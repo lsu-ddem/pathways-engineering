@@ -11,4 +11,4 @@ published: true
 
 ## Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/1uC9tkPnJ6IX444WIEKv_hueETKsDCScI_-mCQ0Ck_JE/edit?usp=sharing"> here<a> to download the powerpoint.
+Click <a href="https://docs.google.com/presentation/d/1uC9tkPnJ6IX444WIEKv_hueETKsDCScI_-mCQ0Ck_JE/edit?usp=sharing"> here</a> to download the powerpoint.
