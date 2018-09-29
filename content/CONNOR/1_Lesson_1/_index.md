@@ -19,5 +19,5 @@ There are not student materials for this lesson.
 
 Click <a href="https://docs.google.com/document/d/1Tat_tXhdTXpnWlNSAB96dZ2FqeYZHhEKhDrxcQm6KSI/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this project.
 
-Click <a href="https://docs.google.com/document/d/1LBgSNsWTTMrDodzLLmh71t74ZKaUHheZqxcKldEYdgA/edit?usp=sharing">here</a> to download the student handout for this project. 
+Click <a href="https://docs.google.com/document/d/1LBgSNsWTTMrDodzLLmh71t74ZKaUHheZqxcKldEYdgA/edit?usp=sharing" target="_blank">here</a> to download the student handout for this project. 
 
