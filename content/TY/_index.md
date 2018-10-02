@@ -8,43 +8,53 @@ published: true
 weight: 8
 ---
 
-### Unit 1: Ethics and the Field of Engineering (210-270 minutes)
+# Unit 3: Engineering Design Process (210-270 minutes)
 
-This unit introduces students to the course and teaches them about the importance of ethics in engineering.
+## Unit Objectives
 
-#### Lesson 1 (30-60 minutes):  
+This unit introduces students to the engineering design process and involves them in creative problem solving.
 
-In this lesson students will take a survey and a pre-test to determine prior knowledge.  After, this lesson will go over the overall format of the class, the syllabus and classroom policies.  This lesson will also teach students what engineering is and what engineers do. 
+## Unit Teacher Notes
+Click <a href="https://docs.google.com/document/d/1M1tIBcjwsaXn7P2Hqja_UWaK8lCEdabBjadssJKbaQs/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for Unit 3
+    
+### [Lesson 1 (30-60 minutes)](http://intro-to-engineering-design.lsupathways.org/ty/1_lesson_1/) 
+This lesson aims at introducing students to the engineering design process.
 
-##### Outcomes
+#### Outcomes 
 
-* Discuss the overall format of the class
-* Define engineering and what engineers do
-* Describe what some engineering disciplines do 
-* Enumerate several career paths for engineers
+* Learn how design impacts product performance
+* Understand the difference in an innovation and an invention
+* Identify and describe the parts of the engineering design process
 
-### [Lesson 2 (150-180 minutes):] (#) 
+### [Lesson 2 (150-180 minutes)](http://intro-to-engineering-design.lsupathways.org/ty/2_lesson_2/2018-08-13-unit-1---lesson-2/) 
+Students use the engineering design process in creative problem solving.
 
-This lesson will teach students about ethical decision making through hands on projects.
+#### Outcomes 
 
-#### Outcomes
+* Use the engineering design process to solve the problem
+* Employ the use of data collection and analysis to help solve the problem
+* Explain the reasons for their selected designs and material choices
 
-* Demonstrate an understanding of academic honesty ethics, and ethics pertaining to the profession of engineer
-* Gain a better understanding of the variety of factors that influence and cloud a person's judgement when faced with an ethical dilemma
-* Understand the bases for making ethical decisions
-* Analyze and debate multiple solutions to an ethical dilemma, determine the best alternative available, and describe how the decision maximizes the benefit and minimizes the risk for everyone involved.
+#### NGSS Standards
 
+* HS-ETS1-2  Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.
+* HS-ETS1-3  Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics as well as possible social, cultural, and environmental impacts.
+ 
+#### NGSS Disciplinary Core Ideas
+
+* ETS.HS.1B.a  When evaluating solutions it is important to take into account a range of constraints including cost, safety, reliability and aesthetics and to consider social, cultural and environmental impacts.  
+* ETS.HS.1B.b  Both physical models and computers can be used in various ways to aid in the engineering design process. 
+ 
 #### Common Core Standards
 
-* SL.9-10.1.C  Propel conversations by posing and responding to questions that relate the current discussion to broader themes or larger ideas; actively incorporate others into the discussion; and clarify, verify, or challenge ideas and conclusions.
-
 * RST.11-12.9  Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible. 
+* SL.9-10.4  Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and tas
+* W.9-10.4  Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience. 
 
-* SL.9-10.4  Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task.
 
-### [Lesson 3 (30 minutes): Quiz on the unit] (https://www.google.com/)
+### [Lesson 3 (30 minutes)](http://intro-to-engineering-design.lsupathways.org/ty/3_lesson_3/) 
+Quiz on the unit
 
 #### Outcomes
 * Check for understanding
 
-click <a href="https://www.google.com/" target="_blank">here</a>
