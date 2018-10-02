@@ -19,18 +19,23 @@ This course is designed to introduce the profession, ethics, and diversity of th
 
 * Use the engineering design process to create, test, and redesign discipline specific projects to gain better appreciation of the diverse engineering fields
 
-### Course and Unit Descriptions - Standards Alignment
-
-Click <a href="https://docs.google.com/document/d/1qKn_ArctbJpHPSZX6nTyeFJkkW2HtYdrRkhN1IVs7rE/edit?usp=sharing" target="_blank">here</a> to download the full course description.
-
 ### Course Maps
+
+Course and Unit Descriptions - Standards Alignment
+
+* Click <a href="https://docs.google.com/document/d/1qKn_ArctbJpHPSZX6nTyeFJkkW2HtYdrRkhN1IVs7rE/edit?usp=sharing" target="_blank">here</a> to download the full course description.
 
 1 Semester - Dual Enrollment Fall or Spring
 
-* Click <a href="https://docs.google.com/document/d/1f0tv4p20FIVATXXZnoKQn-Xm0qaV0bYnNMFl-Xn9tDM/edit?usp=sharing" target="_blank">here</a> to download
+* Click <a href="https://docs.google.com/document/d/1f0tv4p20FIVATXXZnoKQn-Xm0qaV0bYnNMFl-Xn9tDM/edit?usp=sharing" target="_blank">here</a> to download the Single Page Syllabus.
+
+* Click <a href="https://docs.google.com/document/d/1OmKO2G_Bi2obwh_d89V4zATJ9JIjU-Xp5bsfJ3TSssA/edit?usp=sharing" target="_blank">here</a> to download the Detailed Syllabus and Suggested Schedule.
+
 
 Full Year - Dual Enrollment Spring (Optional)
 
-* Click <a href="https://docs.google.com/document/d/1IaJtXN7tI5c0npKQMWH2BtruQP6953iaudqw9GwQdeA/edit?usp=sharing" target="_blank">here</a> to download
+* Click <a href="https://docs.google.com/document/d/1IaJtXN7tI5c0npKQMWH2BtruQP6953iaudqw9GwQdeA/edit?usp=sharing" target="_blank">here</a> to download the Single Page Syllabus
 
+* Click <a href="https://docs.google.com/document/d/1ZA6fD7K748O5fXYUnPu0G9xCSVBfQQ5VnojpHFYD8Is/edit?usp=sharing" target="_blank">here</a> to download the detailed full year non-dual enrollment syllabus and suggested schedule.
 
+* Click <a href="https://docs.google.com/document/d/1UrqvJ2mWUgIVtrrKdG_QnhWQ-IYeesOl8k8U2HwBnmQ/edit?usp=sharing" target="_blank">here</a> to download detailed full year spring dual enrollment syllabus and suggested schedule.
