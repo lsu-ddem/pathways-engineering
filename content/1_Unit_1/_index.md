@@ -9,7 +9,7 @@ published: true
 weight: 1
 ---
 
-{{< teacher >}}
+<teacher>
 
 
 ## Unit Objectives
@@ -67,4 +67,4 @@ Quiz on the unit
 -
 
 
-{{< /teacher >}}
+</teacher>
