@@ -1,15 +1,12 @@
 ---
 title: Unit 1 - Intro to Ethics
 share: https://docs.google.com/open?id=1zwyk_fz9a5dB33c6BvrBxLjM3oPlcxRFFCRy65d6uB0
-type: teacher
 layout: single
 permalink: /copy-of-course-and-unit-descriptions---intro-to-engineering-de-only-copy/
 source-id: 1zwyk_fz9a5dB33c6BvrBxLjM3oPlcxRFFCRy65d6uB0
 published: true
 weight: 1
 ---
-
-<teacher>
 
 
 ## Unit Objectives
@@ -66,5 +63,3 @@ Quiz on the unit
 
 -
 
-
-</teacher>
