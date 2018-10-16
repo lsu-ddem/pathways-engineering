@@ -2,7 +2,7 @@
 title: "Intro to Engineering Design"
 ---
 
-## Introduction to Engineering
+# Introduction to Engineering
 
 ### **Course Description**
 
