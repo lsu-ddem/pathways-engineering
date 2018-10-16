@@ -1,6 +1,5 @@
 ---
 title: "Course Description"
-type: teacher
 layout: single
 weight: 1
 ---
