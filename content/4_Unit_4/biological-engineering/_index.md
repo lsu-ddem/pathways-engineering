@@ -13,6 +13,8 @@ Following the steps of the engineering design process and acting as robotics eng
 
 ### Teacher Notes
 
+Click <a href="https://docs.google.com/document/d/1n6Cltp3F7WXncE3HAhrcAUo9gbLzchZuRJynHaI81L0/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for Biological Engineering.
+
 ### Outcomes
 
 * To understand the physiology of the human hand and learn how human fingers work. 
