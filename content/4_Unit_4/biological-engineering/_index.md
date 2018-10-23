@@ -9,7 +9,7 @@ weight: 1
 
 ### Overview
 
-* Following the steps of the engineering design process and acting as robotics engineer, student teams will use drinking straws to design and build a robotic hand. This robotic hand will mimic the way human fingers work: tendons bend the fingers while the muscles in the forearm control the action.
+Following the steps of the engineering design process and acting as robotics engineer, student teams will use drinking straws to design and build a robotic hand. This robotic hand will mimic the way human fingers work: tendons bend the fingers while the muscles in the forearm control the action.
 
 ### Outcomes
 
