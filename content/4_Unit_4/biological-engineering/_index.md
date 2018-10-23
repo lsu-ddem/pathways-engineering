@@ -31,8 +31,8 @@ Following the steps of the engineering design process and acting as robotics eng
 
 ### Expected Lesson Duration
 
-[Lesson 1:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/1_lesson_1/) 30 - 60 minutes
+[Lesson 1-Introduction:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/1_lesson_1/) 30 - 60 minutes
 
-[Lesson 2:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/2_lesson_2/) 150 - 180 minutes
+[Lesson 2-Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/2_lesson_2/) 150 - 180 minutes
 
-[Lesson 3:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/3_lesson_3/) 30 - 60 minutes
+[Lesson 3-Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/3_lesson_3/) 30 - 60 minutes
