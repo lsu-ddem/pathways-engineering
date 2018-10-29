@@ -18,3 +18,10 @@ Click <a href="https://docs.google.com/document/d/1rk3uXS9SjBlS08EAMo7wPwAiLJCHx
 
 * HSN.Q.A.3  Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.
 
+### Expected Lesson Duration
+
+[Lesson 1- Introduction:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/chemical-engineering/1_lesson_1/) 30 - 60 minutes
+
+[Lesson 2- Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/chemical-engineering/2_lesson_2/) 150 - 180 minutes
+
+[Lesson 3- Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/chemical-engineering/3_lesson_3/) 30 - 60 minutes
