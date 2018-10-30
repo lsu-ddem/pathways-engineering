@@ -2,11 +2,6 @@
 title: "Civil Engineering"
 weight: 3
 ---
-
-{{% children showhidden="true" depth="999" %}}
-
-Civil Engineering
- 
 ### Overview
 
 In teams, students will act as civil engineers and build a segmental bridge model.  Instead of building it out of concrete, which is messy and needs a few weeks to harden, they will use Styrofoam.  Styrofoam is a weaker material than concrete, so instead of having to use special steel cables, a small diameter bungee cord will do.   
