@@ -13,6 +13,8 @@ In teams, students will act as civil engineers and build a segmental bridge mode
 
 ### Teacher Notes
 
+Click <a href="   " target="_blank">here</a> to download the teacher notes for Construction Management.
+
 ### Outcomes
 Build a model segmental bridge and test the model to understand some behavior attributes of segmental bridges such as deflection. 
  
@@ -24,8 +26,8 @@ ETS.HS.1C.a  Criteria may need to be broken down into simpler ones that can be a
 
 ### Expected Lesson Duration
 
-[Lesson 1- Introduction:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/civil-engineering/1_lesson_1/) 30 - 60 minutes
+[Lesson 1 - Introduction:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/civil-engineering/1_lesson_1/) 30 - 60 minutes
 
-[Lesson 2- Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/civil-engineering/2_lesson_2/) 150 - 180 minutes
+[Lesson 2 - Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/civil-engineering/2_lesson_2/) 150 - 180 minutes
 
-[Lesson 3- Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/civil-engineering/3_lesson_3/) 30 - 60 minutes
+[Lesson 3 - Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/civil-engineering/3_lesson_3/) 30 - 60 minutes
