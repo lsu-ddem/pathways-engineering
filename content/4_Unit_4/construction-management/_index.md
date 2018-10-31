@@ -3,9 +3,6 @@ title: "Construction Management"
 weight: 5
 ---
 
-{{% children showhidden="true" depth="999" %}}
-
-
 ### Overview
 Acting as construction managers, students will develop a bid (schedule and materials) for a small object (created by another team) and build it.
 
