@@ -8,7 +8,7 @@ Acting as construction managers, students will develop a bid (schedule and mater
 
 ### Teacher Notes
 
-Click <a href="   " target="_blank">here</a> to download the teacher notes for Construction Management.
+Click <a href="https://docs.google.com/document/d/1oQpLSlV3COnyH5WqNfXagnkYPqCFbIpfI4D8ewLP_1w/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for Construction Management.
 
 ### Outcomes
 
@@ -31,6 +31,8 @@ Click <a href="   " target="_blank">here</a> to download the teacher notes for C
 * ETS.HS.1A.a  Criteria and constraints also include satisfying any requirements set by society, such as taking issues of risk mitigation into account, and they should be quantified to the extent possible and stated in such a way that one can tell if a given design meets them. 
 
 * ETS.HS.1A.b  Humanity faces major global challenges today, such as the need for supplies of clean water and food or for energy sources that minimize pollution, which can be addressed through engineering. These global challenges also may have manifestations in local communities. 
+
+### Expected Lesson Duration
 
 [Lesson 1 - Introduction:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/construction-management/1_lesson_1/) 30 - 60 minutes
 

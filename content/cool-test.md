@@ -15,11 +15,13 @@ This unit aims at introducing students to the engineering design process and inv
 
 **Outcomes/Objectives:**
 
-Learn how design impacts product performance.Understand the difference in an innovation and an invention
+Learn how design impacts product performance.
+Understand the difference in an innovation and an invention
 
 Identify and describe the parts of the engineering design process.
 
-Use the engineering design process to solve the problem.Employ the use of data collection and analysis to help solve the problem
+Use the engineering design process to solve the problem.
+Employ the use of data collection and analysis to help solve the problem
 
 Explain the reasons for their selected designs and material choices.
 
