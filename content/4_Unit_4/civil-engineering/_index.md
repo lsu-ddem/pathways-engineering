@@ -1,7 +1,9 @@
 ---
 title: "Civil Engineering"
 weight: 3
+type: teacher
 ---
+{{<teacher>}}
 ### Overview
 
 In teams, students will act as civil engineers and build a segmental bridge model.  Instead of building it out of concrete, which is messy and needs a few weeks to harden, they will use Styrofoam.  Styrofoam is a weaker material than concrete, so instead of having to use special steel cables, a small diameter bungee cord will do.   
@@ -26,3 +28,4 @@ ETS.HS.1C.a  Criteria may need to be broken down into simpler ones that can be a
 [Lesson 2 - Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/civil-engineering/2_lesson_2/) 150 - 180 minutes
 
 [Lesson 3 - Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/civil-engineering/3_lesson_3/) 30 - 60 minutes
+{{</teacher>}}

@@ -1,7 +1,10 @@
 ---
 title: Lesson 2 - Projects
 weight: 2
+type: teacher
 ---
+
+{{<teacher>}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpMuEJBBe4hX3f-M3UeGM1XPKH9D2_rQMsJkwyX1VIZIjvVktMsCroddBeIKwg9z4jeu20zj-W96bN/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Teacher Materials
@@ -17,3 +20,5 @@ Click <a href="https://docs.google.com/document/d/1jAF34zKbBu1DeqDo2JqsRSjZ3mc4A
 ### Project Materials
 
 Click <a href="https://docs.google.com/document/d/1LxsoXm3q0vvRlQ3WDz0odGx_dfrLuTUx0Ag-vobv2fA/edit?usp=sharing" target="_blank">here</a> to download the student handout.
+
+{{</teacher>}}
