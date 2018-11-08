@@ -1,8 +1,9 @@
 ---
 title: "Unit 4 - Engineering Disciplines"
+type: teacher
 weight: 4
 ---
-
+{{<teacher>}}
 ## Unit Objectives
 
 Each of these units teaches students about one of the ten primary fields of engineering. Students will hear a guest presentation about the opportunities available in each field of engineering.  Students will then complete a hands on project related to each field of engineering.  Students will present the results of their project, write a lab report and take a quiz related that particular field of engineering.  The ten fields of engineering are: Biological Engineering, Chemical Engineering, Civil Engineering, Computer Science, Construction Management, Electrical Engineering, Environmental Engineering, Industrial Engineering, Mechanical Engineering, and Petroleum Engineering.
@@ -34,3 +35,4 @@ Quiz on the unit
 #### Outcomes
 
 * Check for understanding
+{{</teacher>}}

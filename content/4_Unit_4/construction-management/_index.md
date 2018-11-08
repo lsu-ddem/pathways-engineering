@@ -1,8 +1,9 @@
 ---
 title: "Construction Management"
 weight: 5
+type: teacher
 ---
-
+{{<teacher>}}
 ### Overview
 Acting as construction managers, students will develop a bid (schedule and materials) for a small object (created by another team) and build it.
 
@@ -39,3 +40,4 @@ Click <a href="https://docs.google.com/document/d/1oQpLSlV3COnyH5WqNfXagnkYPqCFb
 [Lesson 2 - Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/construction-management/2_lesson_2/) 150 - 180 minutes
 
 [Lesson 3 - Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/construction-management/3_lesson_3/) 30 - 60 minutes
+{{</teacher>}}

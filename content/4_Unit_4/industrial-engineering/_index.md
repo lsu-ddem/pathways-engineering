@@ -1,7 +1,9 @@
 ---
 title: "Industrial Engineering"
+type: teacher
 weight: 8
 ---
+{{<teacher>}}
 ### Overview
 
 Acting as industrial engineers, student teams will conduct a time and motion study of a simple assembly (bridge base).  
@@ -30,3 +32,4 @@ Click <a href="https://docs.google.com/document/d/1I3uurrgGQD0h5Tl5M1yA3A0g7LZWC
 [Lesson 2 - Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/industrial-engineering/2_lesson_2/) 150 - 180 minutes
 
 [Lesson 3 - Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/industrial-engineering/3_lesson_3/) 30 - 60 minutes
+{{</teacher>}}
