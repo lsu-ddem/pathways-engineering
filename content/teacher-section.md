@@ -1,4 +1,9 @@
-test test
+---
+title: "teacher test section"
+
+---
+
+
 ![image alt text](https://intro-to-engineering-design.lsupathways.org/images/Zgg2HaB3psCStszfM0fjUw_img_0.jpg)
 
 # Unit 3
@@ -7,9 +12,13 @@ test test
 
 This unit aims at introducing students to the engineering design process and involving them in creative problem solving.
 
+{{% teacher %}}
+
 **Expected Lesson Duration:**
 
 210 to 270 minutes
+
+{{% /teacher %}}
 
 **Next Generation Science Standard(s) Addressed:**
 
@@ -20,10 +29,12 @@ Understand the difference in an innovation and an invention
 
 Identify and describe the parts of the engineering design process.
 
+{{% teacher %}}
 Use the engineering design process to solve the problem.
 Employ the use of data collection and analysis to help solve the problem
 
 Explain the reasons for their selected designs and material choices.
+{{% /teacher %}}
 
 **Relevance/Rationale/Explorations and Extensions:**
 
