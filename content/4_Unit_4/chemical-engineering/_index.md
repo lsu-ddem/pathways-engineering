@@ -1,9 +1,10 @@
 ---
 title: "Chemical Engineering"
 weight: 2
-type: teacher
+type: "teacher" 
+layout: "single"
 ---
-{{<teacher>}}
+
 ### Overview
 
 Batch processes in batch reactors (such as pots & pans, ovens, etc.) are used for preparing most gourmet foods in a food laboratory (kitchen). The reaction steps are preceded or followed by material or feed preparation in other auxiliary pieces of equipment, such as blenders, food processors, separators and heaters/coolers. A delicate balance between ingredients and spices (raw materials), timing, and processing (cooking) time must be achieved to bring out subtle flavors.
@@ -26,4 +27,3 @@ Click <a href="https://docs.google.com/document/d/1rk3uXS9SjBlS08EAMo7wPwAiLJCHx
 [Lesson 2 - Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/chemical-engineering/2_lesson_2/) 150 - 180 minutes
 
 [Lesson 3 - Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/chemical-engineering/3_lesson_3/) 30 - 60 minutes
-{{</teacher>}}
