@@ -18,6 +18,6 @@ Click <a href="https://docs.google.com/presentation/d/1rDrkLjqQ-1i2FFQRS7ly-qQCY
 
 Click to download the <a href="https://crosswordlabs.com/view/discover-engineering" target="_blank">student handouts</a> for this lesson.
 
-### Project
+### Project  
 
 No project for this lesson.
