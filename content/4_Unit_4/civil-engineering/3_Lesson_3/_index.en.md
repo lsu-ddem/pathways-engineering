@@ -1,14 +1,11 @@
 ---
 title: Lesson 3 - Quiz 
-chapter: true
-# pre: "<b>1. </b>"
-# hidden: true
 weight: 3
-type: teacher
+type: "teacher" 
+layout: "single"
 ---
-{{<teacher>}}
 
 ### Lesson 3 - Quiz
 
 {{% link "https://drive.google.com/open?id=0B1OJ5hjpQNHvX0FLSXk0bE5sSW8" %}}
-{{</teacher>}}
+

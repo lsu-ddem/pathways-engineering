@@ -1,5 +1,5 @@
 ---
-title: "Lesson 1 - Introduction"
+title: Lesson 1 - Introduction
 weight: 1
 hidden: false
 ---
