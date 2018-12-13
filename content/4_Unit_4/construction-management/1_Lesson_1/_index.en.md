@@ -5,4 +5,3 @@ layout: "single"
 weight: 1
 ---
 
-{{% link "https://drive.google.com/open?id=0B2qIkWyuY6yoMGtYYzkwcmhQU0k" %}}
