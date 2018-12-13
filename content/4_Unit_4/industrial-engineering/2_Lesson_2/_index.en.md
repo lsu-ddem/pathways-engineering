@@ -18,3 +18,7 @@ Click <a href="https://docs.google.com/document/d/1L77hmgvN-Cnhtg3DZ1Ekf8qD12w2S
 ### Project Materials
 
 Click <a href="https://docs.google.com/document/d/1a_E_tLvhTw28qmtwHHaByVRN613vAHmsiQ_dpM4ibDM/edit?usp=sharing" target="_blank">here</a> to download student handout 1.
+
+Click <a href="https://drive.google.com/file/d/1Z_q4jzhb3YdHoREAkbtwEDDGXTWJzfCy/view?usp=sharing" target="_blank">here</a> to download student handout 2.
+
+Click <a href="https://drive.google.com/file/d/1tFbzz1YrgaqWUQ4ELAn0j-6A3tnvhSxr/view?usp=sharing" target="_blank">here</a> to download student handout 3.
