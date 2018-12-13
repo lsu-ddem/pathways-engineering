@@ -1,6 +1,5 @@
 ---
 title: "Lesson 1 - Introduction"
-chapter: true
 weight: 1
 hidden: false
 ---
