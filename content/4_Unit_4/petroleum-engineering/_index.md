@@ -1,9 +1,10 @@
 ---
 title: "Petroleum Engineering"
-type: teacher
+type: "teacher" 
+layout: "single"
 weight: 9
 ---
-{{<teacher>}}
+
 ### Overview
 
 Students will design a model to demonstrate how hydraulic fracturing aids in extracting oil and gas from shale deposits thousands of feet beneath the earth’s surface. In teams, they will work to customize and improve drilling models.
@@ -35,4 +36,3 @@ Click <a href="https://docs.google.com/document/d/1NsWSoIhx4LdEMUoqeItwGaN1zZ5IC
 [Lesson 2 - Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/petroleum-engineering/2_lesson_2/) 150 - 180 minutes
 
 [Lesson 3 - Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/petroleum-engineering/3_lesson_3/) 30 - 60 minutes
-{{</teacher>}}
