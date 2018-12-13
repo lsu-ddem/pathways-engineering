@@ -20,3 +20,5 @@ Click <a href="https://docs.google.com/document/d/1tGJmM-bmdItr4sJeu9yyIwCk6s3_D
 ### Project Materials
 
 Click <a href="https://docs.google.com/document/d/1arjMOjgZp-hpmALgp3fMKwl-5S9ePsEsIxC0i0L4LCU/edit?usp=sharing" target="_blank">here</a> to download the student handout.
+
+Click <a href="https://drive.google.com/file/d/1QEqGyW451DFvMVpMRWHv8m6iJ2bvjHBl/view?usp=sharing" target="_blank">here</a> to download the second student handout.
