@@ -5,7 +5,5 @@ type: "teacher"
 layout: "single"
 ---
 
-### Lesson 3 - Quiz
-
 {{% link "https://drive.google.com/open?id=0B1OJ5hjpQNHvX0FLSXk0bE5sSW8" %}}
 
