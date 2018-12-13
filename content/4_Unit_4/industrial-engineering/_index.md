@@ -12,7 +12,7 @@ This project emphasizes the importance of reducing wasteful motions in order to 
 
 ### Teacher Notes
 
-Click <a href="https://docs.google.com/document/d/1I3uurrgGQD0h5Tl5M1yA3A0g7LZWCd6XKmahPzmkAkE/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for Industrial Engineering. 
+Click <a href="https://docs.google.com/document/d/1d6YJQeEmHiP3LFIBbkP8poCamptAxZDKyUpXobowXy0/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for Industrial Engineering. 
 
 ### Outcomes 
 * To practice conducting a time and motion study of a simple assembly (Bridge Base).

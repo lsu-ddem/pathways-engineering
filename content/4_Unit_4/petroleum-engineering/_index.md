@@ -14,7 +14,7 @@ Students will understand that horizontal drilling allows for more surface area o
  
 ### Teacher Notes
 
-Click <a href="   " target="_blank">here</a> to download the teacher notes for Petroleum Engineering.
+Click <a href="https://docs.google.com/document/d/1NsWSoIhx4LdEMUoqeItwGaN1zZ5ICSqTGhZdiMG256E/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for Petroleum Engineering.
 
 ### NGSS Standards
 
