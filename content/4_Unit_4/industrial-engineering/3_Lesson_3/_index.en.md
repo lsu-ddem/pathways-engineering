@@ -4,5 +4,3 @@ type: "teacher"
 layout: "single"
 weight: 3
 ---
-
-### Lesson 3 - Quiz
