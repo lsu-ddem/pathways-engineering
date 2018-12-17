@@ -1,7 +1,7 @@
 ---
 title: "Electrical and Computer Engineering"
 weight: 6
-type: teacher
+type: "teacher" 
+layout: "single"
 ---
-{{<teacher>}}
-{{</teacher>}}
+

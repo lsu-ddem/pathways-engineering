@@ -1,7 +1,6 @@
 ---
 title: "Computer Science"
 weight: 4
-type: teacher
+type: "teacher" 
+layout: "single"
 ---
-{{<teacher>}}
-{{</teacher>}}

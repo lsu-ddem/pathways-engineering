@@ -1,12 +1,8 @@
 ---
 title: Lesson 3 - Quiz 
-type: teacher
-# hidden: true 
+type: "teacher" 
+layout: "single"
 weight: 3
 ---
-{{<teacher>}}
-
-### Lesson 3 - Quiz
 
 {{% link "https://drive.google.com/open?id=0B30x04ffhNSFLXZiZWU0MEtSWFk" %}}
-{{</teacher>}}
