@@ -47,11 +47,11 @@ This lesson will teach students about ethical decision making through hands on p
 
 #### Common Core Standards
 
-- SL.9-10.1.C Propel conversations by posing and responding to questions that relate the current discussion to broader themes or larger ideas; actively incorporate others into the discussion; and clarify, verify, or challenge ideas and conclusions.
-
-- RST.11-12.9 Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible.
-
-- SL.9-10.4 Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task.
+| Common Core Standard                                                                                                                                                                                                                                            |                                                                                                                   Student Action |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------:|
+| SL.9-10.1.C Propel conversations by posing and responding to questions that relate the current discussion to broader themes or larger ideas; actively incorporate others into the discussion; and clarify, verify, or challenge ideas and conclusions.          | Students work in groups to read engineering case studies and evaluate each scenario using the Steps for Ethical Decision Making. |
+| RST.11-12.9 Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible.                                         | Students work in groups to read engineering case studies and evaluate each scenario using the Steps for Ethical Decision Making. |
+| SL.9-10.4 Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task. | Student groups share results and decisions regarding case studies with the rest of the class.                                    |
 
 ### [Lesson 3 (30 minutes)](http://intro-to-engineering-design.lsupathways.org/1_unit_1/3_lesson_3/)
 
