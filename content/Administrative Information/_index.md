@@ -40,3 +40,7 @@ Full Year - Dual Enrollment Spring (Optional)
 * Click <a href="https://docs.google.com/document/d/1ZA6fD7K748O5fXYUnPu0G9xCSVBfQQ5VnojpHFYD8Is/edit?usp=sharing" target="_blank">here</a> to download the detailed full year non-dual enrollment syllabus and suggested schedule.
 
 * Click <a href="https://docs.google.com/document/d/1UrqvJ2mWUgIVtrrKdG_QnhWQ-IYeesOl8k8U2HwBnmQ/edit?usp=sharing" target="_blank">here</a> to download detailed full year spring dual enrollment syllabus and suggested schedule.
+
+### LSU Engineering
+
+Click <a href="https://drive.google.com/file/d/1PTyovyf_UTbhms9SNMSFqm_sMWwOAh0F/view?usp=sharing" target="_blank">here</a> to learn more about the college of engineering at LSU.
