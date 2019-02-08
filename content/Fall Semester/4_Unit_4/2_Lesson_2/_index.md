@@ -48,6 +48,20 @@ Click <a href="https://docs.google.com/document/d/1GLf0CPdM0WCZE1I3CDfH1xYYcm1bC
 
 # 2.4 - Discussion
 
+### Teacher Materials
+
+Click <a href="https://docs.google.com/document/d/1hQDXgBlUJfHiaOYM4tNq6kb5xN74VEbHIKChT3cgX2U/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
+
 # 2.5 - Review of Overall Lab Report
 
+### Teacher Materials
+
+Click <a href="https://docs.google.com/document/d/1QPIasXUmaOOBIc1YHgifvUJyXPB58lcuh6w-BIrmOyE/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
+
 # 2.6 - Presenting
+
+### Teacher Materials
+
+Click <a href="https://docs.google.com/document/d/1Y-HGJh5WrUOgFpQUbHe_ZXeG-SRENZQ4nHQnM1Ni6cE/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
+
+Click <a href="https://drive.google.com/drive/folders/1vhGkn-khnY-oGwTGUHrJMc289MGgHsqU?usp=sharing" target="_blank">here</a> to download examples of a good presentation.
