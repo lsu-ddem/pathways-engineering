@@ -11,5 +11,15 @@ weight: 2
 
 ### Teacher Materials
 
+Click <a href="https://docs.google.com/presentation/d/1a8imeO3DOcw_o4AclNarOH92Ojc0bS1o2tbLtSFpup8/edit?usp=sharing" target="_blank">here</a> to download the powerpoint.
+
+Click <a href="https://docs.google.com/document/d/1VNB4rIsQU1y6kx_vyXwLRHNzezCsOU7CCll9Z8oZV-8/edit?usp=sharing" target="_blank">here</a> to download the lesson plan for this lesson.
+
+Click <a href="https://drive.google.com/file/d/1-bAVi_qRe9LfLELHA48RmyrN7oHQgsdg/view?usp=sharing" target="_blank">here</a> the student activity solutions.
+
 ### Student Materials
+
+Click <a href="https://docs.google.com/document/d/1M9LKAFVyIcBswboa4srF9btYSyl0EfqzhKPiYHPNtB4/edit?usp=sharing" target="_blank">here</a> to download the studnet activity.
+
+Click <a href="https://drive.google.com/file/d/1fJ8oVJhTiFytujRhmKMMrOi6C6dBA_w8/view?usp=sharing" target="_blank">here</a> to download the student handout.
 
