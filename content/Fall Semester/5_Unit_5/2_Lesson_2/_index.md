@@ -19,7 +19,7 @@ Click <a href="https://drive.google.com/file/d/1-bAVi_qRe9LfLELHA48RmyrN7oHQgsdg
 
 ### Student Materials
 
-Click <a href="https://docs.google.com/document/d/1M9LKAFVyIcBswboa4srF9btYSyl0EfqzhKPiYHPNtB4/edit?usp=sharing" target="_blank">here</a> to download the studnet activity.
+Click <a href="https://docs.google.com/document/d/1M9LKAFVyIcBswboa4srF9btYSyl0EfqzhKPiYHPNtB4/edit?usp=sharing" target="_blank">here</a> to download the student activity.
 
 Click <a href="https://drive.google.com/file/d/1fJ8oVJhTiFytujRhmKMMrOi6C6dBA_w8/view?usp=sharing" target="_blank">here</a> to download the student handout.
 
