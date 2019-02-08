@@ -8,3 +8,4 @@ published: true
 weight: 4
 ---
 
+Click <a href="https://docs.google.com/document/d/1bXzpOHbNBZwU_OeHKMd91P1SttZIghAwmBrUOUOw9g0/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this unit.
