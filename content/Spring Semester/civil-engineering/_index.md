@@ -14,7 +14,7 @@ In teams, students will act as civil engineers and build a segmental bridge mode
 Click <a href="https://docs.google.com/document/d/1yO2ENeZjDgJD1oRk4yEL7H2QxNOndppwLhhtYrOFZDs/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for Construction Management.
 
 ### Outcomes
-Build a model segmental bridge and test the model to understand some behavior attributes of segmental bridges such as deflection. 
+* Build a model segmental bridge and test the model to understand some behavior attributes of segmental bridges such as deflection. 
  
 ### NGSS Disciplinary Core Ideas
 
