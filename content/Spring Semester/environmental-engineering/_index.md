@@ -21,14 +21,15 @@ Click <a href="https://docs.google.com/document/d/1H0uhSeSJrMAxGHllXyaf4AIUiqX9p
 
 ### NGSS Standards
 
-* HS-LS2-7.  Design, evaluate, and refine a solution for reducing the impacts of human activities on the environment and biodiversity.
+| NGSS Standard                                                                                                                      | Student Action                                                                            |
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| HS-LS2-7 Design, evaluate, and refine a solution for reducing the impacts of human activities on the environment and biodiversity. | Students design, evaluate, and refine methods to contain and clean a simulated oil spill. |
 
 ### NGSS Disciplinary Core Ideas
-* HS.LS2A.b  Human activity directly and indirectly affect biodiversity and ecosystem health(e.g., habitat fragmentation, introduction of nonnative or invasive species, overharvesting, pollution and climate change).
 
-* HS.EVS2C.a  Different approaches can be used to manage impacts to our environment. Generally speaking, we can change human activities to limit negative impacts. Alternately, we can use technologies that reduce impact or we can perform restoration work to recover natural functions and values.
-
-* HS.EVS2C.b  Trade-offs occur when we make environmental choices.
+| NGSS Disciplinary Core Idea                                                                                                                                                                                          | Student Action                                                                                  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| HS.LS2A.b Human activity directly and indirectly affect biodiversity and ecosystem health(e.g., habitat fragmentation, introduction of nonnative or invasive species, overharvesting, pollution and climate change). | Students explore and understand the impacts of oil spills on biodiversity and ecosystem health. |
 
 ### Expected Lesson Duration
 
