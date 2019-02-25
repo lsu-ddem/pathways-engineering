@@ -19,15 +19,17 @@ Click <a href="https://docs.google.com/document/d/1NsWSoIhx4LdEMUoqeItwGaN1zZ5IC
 
 ### NGSS Standards
 
-* HS-ESS3-1  Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and changes in climate have influenced human activity. 
-
-* HS-ESS3-2  Evaluate competing design solutions for developing, managing, and utilizing energy and mineral resources based on cost-benefit ratios.
-
-* HS-ESS3-4  Evaluate or refine a technological solution that reduces impacts of human activities on natural systems. 
+| NGSS Standard                                                                                                                                                                             	| Student Action                                                                                                 	|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------	|
+| HS-ESS3-1 Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and changes in climate have influenced human activity. 	| Students model a human response to availability of natural resources through the hydraulic fracturing project. 	|
+| HS-ESS3-2 Evaluate competing design solutions for developing, managing, and utilizing energy and mineral resources based on cost-benefit ratios.                                          	| Students consider and test potential adjustments to their model in the hydraulic fracturing project.           	|
+| HS-ESS3-4 Evaluate or refine a technological solution that reduces impacts of human activities on natural systems.                                                                        	| Students consider and test potential adjustments to their model in the hydraulic fracturing project.           	|
 
 ### NGSS Disciplinary Core Ideas
 
-* HS.ESS3A.b  All forms of energy production and other resource extraction have associated economic, social, environmental, and geopolitical costs and risks as well as benefits. New technologies and social regulations can change the balance of these factors.
+| NGSS Disciplinary Core Ideas                                                                                                                                                                                                                                   	| Student Action                                                                                                                                    	|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------	|
+| HS.ESS3A.b All forms of energy production and other resource extraction have associated economic, social, environmental, and geopolitical costs and risks as well as benefits. New technologies and social regulations can change the balance of these factors 	| Students explore the demand for hydraulic fracturing and the associated economic, social, environmental, geopolitical costs, risks, and benefits. 	|
 
 ### Expected Lesson Duration
 
