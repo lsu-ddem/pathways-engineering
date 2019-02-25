@@ -25,11 +25,15 @@ Click <a href="https://docs.google.com/document/d/1n6Cltp3F7WXncE3HAhrcAUo9gbLzc
  
 ### NGSS Standards
 
-* HS-LS1-2  Develop and use a model to illustrate the hierarchical organization of interacting systems that provide specific functions within multicellular organisms.
+| NGSS Standard                                                                                                                                                       | Student Action                                                                             |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| HS-LS1-2 Develop and use a model to illustrate the hierarchical organization of interacting systems that provide specific functions within multicellular organisms. | Students use knowledge of human hand anatomy to develop a working model of a robotic hand. |
  
 ### NGSS Disciplinary Core Ideas
 
-* HS.LS1A.b  Multicellular organisms have a hierarchical structural organization, in which any one system is made up of numerous parts and is itself a component of the next level. 
+| NGSS Disciplinary Core Idea                                                                                                                                                     | Student Action                                                                                                                                   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| HS.LS1A.b Multicellular organisms have a hierarchical structural organization, in which any one system is made up of numerous parts and is itself a component of the next level | Students develop a working model of a robotic hand where students identify and use materials to function as specific components of hand anatomy. | 
 
 ### Expected Lesson Duration
 
