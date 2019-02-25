@@ -22,9 +22,10 @@ Click <a href="https://docs.google.com/document/d/1d6YJQeEmHiP3LFIBbkP8poCamptAx
 
 ### NGSS Disciplinary Core Ideas
 
-* ETS.HS.1A.a  Criteria and constraints also include satisfying any requirements set by society, such as taking issues of risk mitigation into account, and they should be quantified to the extent possible and stated in such a way that one can tell if a given design meets them.
-
-* ETS.HS.1C.a  Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed. 
+| NGSS Disciplinary Core Idea                                                                                                                                                                                                                                                        	| Student Action                                                                                                                                                      	|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| ETS.HS.1A.a Criteria and constraints also include satisfying any requirements set by society, such as taking issues of risk mitigation into account, and they should be quantified to the extent possible and stated in such a way that one can tell if a given design meets them. 	| Students consider given criteria and constraints when conduction a time and motion study to examine the process of building a bridge base.                          	|
+| ETS.HS.1C.a Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed.                                                                              	| Students break down the process of building and bridge base as well as analyze and prioritize individual actions to maximize efficiency in a time and motion study. 	| 
 
 ### Expected Lesson Duration
 
