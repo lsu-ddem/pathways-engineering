@@ -10,4 +10,4 @@ weight: 3
 
 ### Quiz
 
-Click <a href ="https://docs.google.com/document/d/19XSz-Mllvg-ksLRcO_gNTlRt-0ONwRUMjvOItv-uRpY/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for the quiz.
+Click <a href ="https://docs.google.com/document/d/19XSz-Mllvg-ksLRcO_gNTlRt-0ONwRUMjvOItv-uRpY/edit?usp=sharing" target="_blank">here</a> to download the teacher guide for the quiz.

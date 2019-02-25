@@ -14,6 +14,6 @@ There are no student materials for this lesson.
 
 ### Project 
 
-Click <a href="https://docs.google.com/document/d/1Tat_tXhdTXpnWlNSAB96dZ2FqeYZHhEKhDrxcQm6KSI/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for the project.
+Click <a href="https://docs.google.com/document/d/1Tat_tXhdTXpnWlNSAB96dZ2FqeYZHhEKhDrxcQm6KSI/edit?usp=sharing" target="_blank">here</a> to download the lesson plan for the project.
 
 Click <a href="https://docs.google.com/document/d/1yB8aL1dBaxqgv_VVyyqov5O36P2CXCrIjuOKqImLov0/edit?usp=sharing" target="_blank">here</a> to download the student handout for the project.

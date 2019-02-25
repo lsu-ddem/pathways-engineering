@@ -14,7 +14,7 @@ weight: 1
 
 Click <a href="https://docs.google.com/presentation/d/1CkMAiJbk4v7iZ3d34Lb4SfjhH1qt6BBayUh2BONJLhk/edit?usp=sharing" target="_blank">here</a> to download the powerpoint.
 
-Click <a href="https://docs.google.com/document/d/1ZPKvAEImq0S_oOFY9sv3ZNNr3htHscrlHJg4yTff4h0/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
+Click <a href="https://docs.google.com/document/d/1ZPKvAEImq0S_oOFY9sv3ZNNr3htHscrlHJg4yTff4h0/edit?usp=sharing" target="_blank">here</a> to download the lesson plan for this lesson.
 
 Click <a href="https://drive.google.com/drive/folders/1J_YaPg73bFqNXQ9v9facE0npwouvuEFg?usp=sharing" target="_blank">here</a> to download example student work.
 
