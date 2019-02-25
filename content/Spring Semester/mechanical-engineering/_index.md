@@ -25,11 +25,15 @@ Click <a href="https://docs.google.com/document/d/1I3uurrgGQD0h5Tl5M1yA3A0g7LZWC
  
 ### NGSS Standards
 
-* HS-ETS1-1 Analyze a major global challenge to specify qualitative and quantitative criteria and constraints for solutions that account for societal needs and wants.
+| NGSS Standard                                                                                                                                                        	| Student Action                                                                                                           	|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------	|
+| HS-ETS1-1 Analyze a major global challenge to specify qualitative and quantitative criteria and constraints for solutions that account for societal needs and wants. 	| Students comply with criteria and constraints to design and build a conveyor system given a limited number of materials. 	|
  
 ### NGSS Disciplinary Core Ideas
 
-* ETS.HS.1C.a  Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed. 
+| NGSS Disciplinary Core Idea                                                                                                                                                                           	| Student Action                                                                                                                                                     	|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| ETS.HS.1C.a Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed. 	| Students make decisions and prioritize in order to comply with criteria and constraints to design and build a conveyor system given a limited number of materials. 	|
 
 ### Expected Lesson Duration
 
