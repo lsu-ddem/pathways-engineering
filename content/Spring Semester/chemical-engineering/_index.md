@@ -16,9 +16,11 @@ Click <a href="https://docs.google.com/document/d/1rk3uXS9SjBlS08EAMo7wPwAiLJCHx
 * Relate the processes in everyday life to unit operations and processes in chemical engineering. 
 
 ### Common Core Standards
-* HSN.Q.A.2  Define appropriate quantities for the purpose of descriptive modeling.
 
-* HSN.Q.A.3  Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.
+| Common Core Standard                                                                                      | Student Action                                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| HSN.Q.A.2 Define appropriate quantities for the purpose of descriptive modeling.                          | Students calculate and report quantities of each ingredient in their recipe to develop their process flow diagram.                        |
+| HSN.Q.A.3 Choose a level of accuracy appropriate to limitations on measurement when reporting quantities. | Students determine appropriate measures and necessary rounding for each ingredient in their recipe to develop their process flow diagram. |
 
 ### Expected Lesson Duration
 
