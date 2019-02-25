@@ -6,7 +6,7 @@ layout: "single"
 ---
 
 ### Overview
-Acting as construction managers, students will develop a bid (schedule and materials) for a small object (created by another team) and build it.
+Acting as construction managers, students will develop a bid that includes a cost for materials and an estimated schedule for a small object (created by another team) and build it. Teams will only be able to communicate with the client using a request for information. 
 
 ### Teacher Notes
 
@@ -26,13 +26,15 @@ Click <a href="https://docs.google.com/document/d/1oQpLSlV3COnyH5WqNfXagnkYPqCFb
 
 ### NGSS Standards
 
-* HS-ETS1-1  Analyze a major global challenge to specify qualitative and quantitative criteria and constraints for solutions that account for societal needs and wants.
+| NGSS Standards                                                                                                                                                       | Student Action                                                                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HS-ETS1-1 Analyze a major global challenge to specify qualitative and quantitative criteria and constraints for solutions that account for societal needs and wants. | Students collect, compile, and analyze qualitative and quantitative information from various sources to make decisions as the complete the request for information project. |
 
 ### NGSS Disciplinary Core Ideas
 
-* ETS.HS.1A.a  Criteria and constraints also include satisfying any requirements set by society, such as taking issues of risk mitigation into account, and they should be quantified to the extent possible and stated in such a way that one can tell if a given design meets them. 
-
-* ETS.HS.1A.b  Humanity faces major global challenges today, such as the need for supplies of clean water and food or for energy sources that minimize pollution, which can be addressed through engineering. These global challenges also may have manifestations in local communities. 
+| NGSS Disciplinary Core Idea                                                                                                                                                                                                                                                        | Student Action                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| ETS.HS.1A.a Criteria and constraints also include satisfying any requirements set by society, such as taking issues of risk mitigation into account, and they should be quantified to the extent possible and stated in such a way that one can tell if a given design meets them. | Students consider various criteria and constraints including time, cost, design preferences to complete the request for information project. |
 
 ### Expected Lesson Duration
 
