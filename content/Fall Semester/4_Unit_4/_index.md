@@ -15,7 +15,7 @@ This unit introduces students to the process of writing a lab report; students l
 
 Click <a href="https://docs.google.com/document/d/1bXzpOHbNBZwU_OeHKMd91P1SttZIghAwmBrUOUOw9g0/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this unit.
 
-### [Lesson 1 (55 minutes)](#)
+### [Lesson 1 (55 minutes)](https://intro-to-engineering-design.lsupathways.org/fall-semester/4_unit_4/1_lesson_1/)
 
 This lesson introduces students to the lab report rubric. They work in groups to evaluate examples of good and bad lab reports. 
 
@@ -25,7 +25,7 @@ This lesson introduces students to the lab report rubric. They work in groups to
 
 - Identify and describe the characteristics of a good lab report
 
-### [Lesson 2.1 (55 minutes)](#)
+### [Lesson 2.1 (55 minutes)](https://intro-to-engineering-design.lsupathways.org/fall-semester/4_unit_4/2_lesson_2/)
 
 Students work in pairs to complete a Density project and write a lab report.
 
@@ -40,7 +40,7 @@ Students work in pairs to complete a Density project and write a lab report.
 |  RST.11-12.9 Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible                                         	| Students use provided information to write lab reports on the density project. 	|
 | SL.9-10.4 Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task. 	| Students work in pairs to write a lab report for the density project.          	|
 
-### [Lesson 2.2 (55 minutes)](#)
+### [Lesson 2.2 (55 minutes)](https://intro-to-engineering-design.lsupathways.org/fall-semester/4_unit_4/2_lesson_2/)
 
 Students learn about Google Search Skills and rewrite the “Introduction” portion of the lab report.
 
@@ -57,7 +57,7 @@ Students learn about Google Search Skills and rewrite the “Introduction” por
 | RST.11-12.9 Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible                                          	| Students use information from their Google searches to write an Introduction for their lab reports. 	|
 | SL.9-10.4 Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task. 	| Students work in pairs to write an Introduction for the lab report for the density project.         	|
 
-### [Lesson 2.3 (55 minutes)](#)
+### [Lesson 2.3 (55 minutes)](https://intro-to-engineering-design.lsupathways.org/fall-semester/4_unit_4/2_lesson_2/)
 
  Students work in small groups completing a mini project to learn about the “Methods” section of a lab report.
 
@@ -71,7 +71,7 @@ Students learn about Google Search Skills and rewrite the “Introduction” por
 |-------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------	|
 | W.9-10.2.D Use precise language and domain-specific vocabulary to manage the complexity of the topic. 	| Students critique “methods” during the mini project for repeatability and specificity. 	|
 
-### [Lesson 2.4 (55 minutes)](#)
+### [Lesson 2.4 (55 minutes)](https://intro-to-engineering-design.lsupathways.org/fall-semester/4_unit_4/2_lesson_2/)
 
 Students learn about calculations, redo Density Project, and rewrite the “Methods” and “Results” portions of the lab report.
 
@@ -86,7 +86,7 @@ Students learn about calculations, redo Density Project, and rewrite the “Meth
 | W.9-10.2.D Use precise language and domain-specific vocabulary to manage the complexity of the topic.                                                                                                                                                           	| Students record and report detailed results                  	|
 | SL.9-10.4 Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task. 	| Students work in pairs to record and report detailed results 	|
 
-### [Lesson 2.5 (55 minutes)](#)
+### [Lesson 2.5 (55 minutes)](https://intro-to-engineering-design.lsupathways.org/fall-semester/4_unit_4/2_lesson_2/)
 
  Students learn about the Discussion component of a lab report and rewrite their “Discussion” portion
 
@@ -101,7 +101,7 @@ Students learn about calculations, redo Density Project, and rewrite the “Meth
 | W.9-10.2.D Use precise language and domain-specific vocabulary to manage the complexity of the topic.                                                                                                                                                           	| Students work in groups to write a discussion section of a lab report. 	|
 | SL.9-10.4 Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task. 	| Students work in groups to write a discussion section of a lab report. 	|
 
-### [Lesson 2.6  (55 minutes)](#) 
+### [Lesson 2.6  (55 minutes)](https://intro-to-engineering-design.lsupathways.org/fall-semester/4_unit_4/2_lesson_2/) 
 
 Students Learn about Presentation Skills and create a presentation for their project.
 
@@ -115,7 +115,7 @@ Students Learn about Presentation Skills and create a presentation for their pro
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------	|
 | SL.9-10.4 Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task. 	| Students work in groups to create and present a presentation on the density lab. 	|
 
-### [Lesson 3 (30 minutes)](#)
+### [Lesson 3 (30 minutes)](https://intro-to-engineering-design.lsupathways.org/fall-semester/4_unit_4/3_lesson_3/)
 
 Quiz on the unit
 
