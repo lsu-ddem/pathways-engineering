@@ -35,6 +35,11 @@ Students work in pairs to complete a Density project and write a lab report.
 
 #### Common Core Standards
 
+| Common Core Standard                                                                                                                                                                                                                                            	| Student Action                                                                 	|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------	|
+|  RST.11-12.9 Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible                                         	| Students use provided information to write lab reports on the density project. 	|
+| SL.9-10.4 Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task. 	| Students work in pairs to write a lab report for the density project.          	|
+
 ### [Lesson 2.2 (55 minutes)](#)
 
 Students learn about Google Search Skills and rewrite the “Introduction” portion of the lab report.
@@ -47,6 +52,11 @@ Students learn about Google Search Skills and rewrite the “Introduction” por
 
 #### Common Core Standards
 
+| Common Core Standard                                                                                                                                                                                                                                            	| Student Action                                                                                      	|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------	|
+| RST.11-12.9 Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible                                          	| Students use information from their Google searches to write an Introduction for their lab reports. 	|
+| SL.9-10.4 Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task. 	| Students work in pairs to write an Introduction for the lab report for the density project.         	|
+
 ### [Lesson 2.3 (55 minutes)](#)
 
  Students work in small groups completing a mini project to learn about the “Methods” section of a lab report.
@@ -56,6 +66,10 @@ Students learn about Google Search Skills and rewrite the “Introduction” por
 - Understand the characteristics that make a “Methods” section repeatable and specific
 
 #### Common Core Standards
+
+| Common Core Standard                                                                                  	| Student Action                                                                         	|
+|-------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------	|
+| W.9-10.2.D Use precise language and domain-specific vocabulary to manage the complexity of the topic. 	| Students critique “methods” during the mini project for repeatability and specificity. 	|
 
 ### [Lesson 2.4 (55 minutes)](#)
 
@@ -67,6 +81,11 @@ Students learn about calculations, redo Density Project, and rewrite the “Meth
 
 #### Common Core Standards
 
+| Common Core Standard                                                                                                                                                                                                                                            	| Student Action                                               	|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------	|
+| W.9-10.2.D Use precise language and domain-specific vocabulary to manage the complexity of the topic.                                                                                                                                                           	| Students record and report detailed results                  	|
+| SL.9-10.4 Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task. 	| Students work in pairs to record and report detailed results 	|
+
 ### [Lesson 2.5 (55 minutes)](#)
 
  Students learn about the Discussion component of a lab report and rewrite their “Discussion” portion
@@ -77,6 +96,11 @@ Students learn about calculations, redo Density Project, and rewrite the “Meth
 
 #### Common Core Standards
 
+| Common Core Standard                                                                                                                                                                                                                                            	| Student Action                                                         	|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------	|
+| W.9-10.2.D Use precise language and domain-specific vocabulary to manage the complexity of the topic.                                                                                                                                                           	| Students work in groups to write a discussion section of a lab report. 	|
+| SL.9-10.4 Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task. 	| Students work in groups to write a discussion section of a lab report. 	|
+
 ### [Lesson 2.6  (55 minutes)](#) 
 
 Students Learn about Presentation Skills and create a presentation for their project.
@@ -86,6 +110,10 @@ Students Learn about Presentation Skills and create a presentation for their pro
 - Use technology to communicate effectively in various settings and contexts
 
 #### Common Core Standards
+
+| Common Core Standard                                                                                                                                                                                                                                            	| Student Action                                                                   	|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------	|
+| SL.9-10.4 Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task. 	| Students work in groups to create and present a presentation on the density lab. 	|
 
 ### [Lesson 3 (30 minutes)](#)
 
