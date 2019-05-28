@@ -1,6 +1,5 @@
 ---
 title: Unit 8 - Fluor Challenger
-share: https://docs.google.com/open?id=1zwyk_fz9a5dB33c6BvrBxLjM3oPlcxRFFCRy65d6uB0
 layout: single
 source-id: 1zwyk_fz9a5dB33c6BvrBxLjM3oPlcxRFFCRy65d6uB0
 published: true
