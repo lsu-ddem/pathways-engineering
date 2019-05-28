@@ -6,6 +6,8 @@ permalink: /copy-of-course-and-unit-descriptions---intro-to-engineering-de-only-
 source-id: 1zwyk_fz9a5dB33c6BvrBxLjM3oPlcxRFFCRy65d6uB0
 published: true
 weight: 3
+type: "teacher" 
+layout: "single"
 ---
 
 ### Quiz
