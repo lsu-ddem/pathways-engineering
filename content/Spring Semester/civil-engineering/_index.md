@@ -2,7 +2,7 @@
 title: "Civil Engineering"
 weight: 3
 type: "teacher" 
-layout: "single"
+
 ---
 
 ### Overview
@@ -19,19 +19,19 @@ Click <a href="https://docs.google.com/document/d/1yO2ENeZjDgJD1oRk4yEL7H2QxNOnd
 ### NGSS Disciplinary Core Ideas
 
 | NGSS Disciplinary Core Idea                                                                                                                                                                           | Student Action                                                                                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| ETS.HS.1C.a Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed. | Students systematically test and analyze the success of various cord tensions and placement of load as they build segmental bridge models. | 
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| ETS.HS.1C.a Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed. | Students systematically test and analyze the success of various cord tensions and placement of load as they build segmental bridge models. |
  
 ### Common Core Standards
 
 | Common Core Standard                                                                                                                                                                                                                                                                      | Student Action                                                                                |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | 8.F.B.5 Describe qualitatively the functional relationship between two quantities by analyzing a graph (e.g., where the function is increasing or decreasing, linear or nonlinear). Sketch a graph that exhibits the qualitative features of a function that has been described verbally. | Students create and analyze a graph displaying the results from the segmental bridge project. |
 
 ### Expected Lesson Duration
 
-[Lesson 1 - Introduction:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/civil-engineering/1_lesson_1/) 30 - 60 minutes
+[Lesson 1 - Introduction:](./1_lesson_1/) 30 - 60 minutes
 
-[Lesson 2 - Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/civil-engineering/2_lesson_2/) 150 - 180 minutes
+[Lesson 2 - Projects:](./2_lesson_2/) 150 - 180 minutes
 
-[Lesson 3 - Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/civil-engineering/3_lesson_3/) 30 - 60 minutes
+[Lesson 3 - Quiz:](./3_lesson_3/) 30 - 60 minutes

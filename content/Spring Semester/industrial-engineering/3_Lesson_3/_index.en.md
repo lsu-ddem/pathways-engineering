@@ -1,6 +1,6 @@
 ---
 title: Lesson 3 - Quiz
 type: "teacher" 
-layout: "single"
+hidden: true
 weight: 3
 ---

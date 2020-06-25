@@ -2,7 +2,7 @@
 title: "Chemical Engineering"
 weight: 2
 type: "teacher" 
-layout: "single"
+
 ---
 
 ### Overview
@@ -18,14 +18,14 @@ Click <a href="https://docs.google.com/document/d/1rk3uXS9SjBlS08EAMo7wPwAiLJCHx
 ### Common Core Standards
 
 | Common Core Standard                                                                                      | Student Action                                                                                                                            |
-|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | HSN.Q.A.2 Define appropriate quantities for the purpose of descriptive modeling.                          | Students calculate and report quantities of each ingredient in their recipe to develop their process flow diagram.                        |
 | HSN.Q.A.3 Choose a level of accuracy appropriate to limitations on measurement when reporting quantities. | Students determine appropriate measures and necessary rounding for each ingredient in their recipe to develop their process flow diagram. |
 
 ### Expected Lesson Duration
 
-[Lesson 1 - Introduction:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/chemical-engineering/1_lesson_1/) 30 - 60 minutes
+[Lesson 1 - Introduction:](./1_lesson_1/) 30 - 60 minutes
 
-[Lesson 2 - Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/chemical-engineering/2_lesson_2/) 150 - 180 minutes
+[Lesson 2 - Projects:](./2_lesson_2/) 150 - 180 minutes
 
-[Lesson 3 - Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/chemical-engineering/3_lesson_3/) 30 - 60 minutes
+[Lesson 3 - Quiz:](./3_lesson_3/) 30 - 60 minutes

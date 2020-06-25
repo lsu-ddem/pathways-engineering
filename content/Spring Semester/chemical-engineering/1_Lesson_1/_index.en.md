@@ -2,7 +2,6 @@
 title: Lesson 1 - Introduction 
 weight: 1
 type: "teacher" 
-layout: "single"
 hidden: false
 ---
 

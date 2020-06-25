@@ -15,7 +15,7 @@ This unit introduces students to the engineering design process and involves the
 
 Click <a href="https://docs.google.com/document/d/1M1tIBcjwsaXn7P2Hqja_UWaK8lCEdabBjadssJKbaQs/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for Unit 3.
 
-### [Lesson 1 (30-60 minutes)](./fall-semester/3_unit_3/1_lesson_1/)
+### [Lesson 1 (30-60 minutes)](./1_lesson_1/)
 
 This lesson aims at introducing students to the engineering design process.
 
@@ -27,7 +27,7 @@ This lesson aims at introducing students to the engineering design process.
 
 * Identify and describe the parts of the engineering design process
 
-### [Lesson 2 (150-180 minutes)](http://intro-to-engineering-design.lsupathways.org/3_unit_3/2_lesson_2/)
+### [Lesson 2 (150-180 minutes)](./2_lesson_2/)
 
 Students use the engineering design process in creative problem solving.
 
@@ -59,7 +59,7 @@ Students use the engineering design process in creative problem solving.
 | W.9-10.4, Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.                                                                                                                  | Students write a lab report to communicate the results of the Super Slinger Project.                                                 |
 
 
-### [Lesson 3 (30 minutes)](http://intro-to-engineering-design.lsupathways.org/3_unit_3/3_lesson_3/)
+### [Lesson 3 (30 minutes)](./3_lesson_3/)
 
 * Quiz on the unit
 

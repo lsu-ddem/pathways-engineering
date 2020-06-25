@@ -2,7 +2,7 @@
 title: "Computer Science"
 weight: 4
 type: "teacher" 
-layout: "single"
+
 ---
 
 ### Overview
@@ -16,11 +16,11 @@ Students will work with Arduino’s to create a circuit that lights up an LED.  
 ### NGSS Standards
 
 | NGSS Standards                                                                                    | Student Action                                                  |
-|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | CCSS.Math.Content.HSF-IF.B Interpret functions that arise in applications in terms of the context | Students will interpret functions to create code on an Arduino. |
 
 ### NGSS Disciplinary COre Ideas
 
 | NGSS Disciplinary Core Idea                                                                                                                                                                           | Student Action                                                                      |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | ETS.HS.1C.a Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed. | Students follow specific steps to accomplish a series of challenges using Arduinos. |

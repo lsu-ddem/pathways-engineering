@@ -2,7 +2,7 @@
 title: Lesson 2 - Projects
 weight: 2
 type: "teacher"
-layout: "single"
+
 ---
 
 

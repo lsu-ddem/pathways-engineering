@@ -2,7 +2,7 @@
 title: "Environmental Engineering"
 weight: 7
 type: "teacher" 
-layout: "single"
+
 ---
 
 ### Overview
@@ -22,21 +22,21 @@ Click <a href="https://docs.google.com/document/d/1H0uhSeSJrMAxGHllXyaf4AIUiqX9p
 ### NGSS Standards
 
 | NGSS Standard                                                                                                                      | Student Action                                                                            |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | HS-LS2-7 Design, evaluate, and refine a solution for reducing the impacts of human activities on the environment and biodiversity. | Students design, evaluate, and refine methods to contain and clean a simulated oil spill. |
 
 ### NGSS Disciplinary Core Ideas
 
 | NGSS Disciplinary Core Idea                                                                                                                                                                                                                                                                         | Student Action                                                                                                                    |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | HS.LS2A.b Human activity directly and indirectly affect biodiversity and ecosystem health(e.g., habitat fragmentation, introduction of nonnative or invasive species, overharvesting, pollution and climate change).                                                                                | Students explore and understand the impacts of oil spills on biodiversity and ecosystem health.                                   |
 | HS.EVS2C.a Different approaches can be used to manage impacts to our environment. Generally speaking, we can change human activities to limit negative impacts. Alternately, we can use technologies that reduce impact or we can perform restoration work to recover natural functions and values. | Students learn through the presentation and explore through the activity multiple methods for containing and cleaning oil spills. |
 | HS.EVS2C.b Trade-offs occur when we make environmental choices.                                                                                                                                                                                                                                     | Students learn about environmental trade-offs associated with decisions regarding oil drilling and consumption.                   |
 
 ### Expected Lesson Duration
 
-[Lesson 1 - Introduction:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/environmental-engineering/1_lesson_1/) 30 - 60 minutes
+[Lesson 1 - Introduction:](./1_lesson_1/) 30 - 60 minutes
 
-[Lesson 2 - Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/environmental-engineering/2_lesson_2/) 150 - 180 minutes
+[Lesson 2 - Projects:](./2_lesson_2/) 150 - 180 minutes
 
-[Lesson 3 - Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/environmental-engineering/3_lesson_3/) 30 - 60 minutes
+[Lesson 3 - Quiz:](./3_lesson_3/) 30 - 60 minutes

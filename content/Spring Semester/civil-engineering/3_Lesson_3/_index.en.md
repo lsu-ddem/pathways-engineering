@@ -2,7 +2,7 @@
 title: Lesson 3 - Quiz 
 weight: 3
 type: "teacher" 
-layout: "single"
+hidden: true
 ---
 
 ### Quiz

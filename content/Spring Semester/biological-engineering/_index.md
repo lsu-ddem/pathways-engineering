@@ -26,19 +26,19 @@ Click <a href="https://docs.google.com/document/d/1n6Cltp3F7WXncE3HAhrcAUo9gbLzc
 ### NGSS Standards
 
 | NGSS Standard                                                                                                                                                       | Student Action                                                                             |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | HS-LS1-2 Develop and use a model to illustrate the hierarchical organization of interacting systems that provide specific functions within multicellular organisms. | Students use knowledge of human hand anatomy to develop a working model of a robotic hand. |
  
 ### NGSS Disciplinary Core Ideas
 
 | NGSS Disciplinary Core Idea                                                                                                                                                     | Student Action                                                                                                                                   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| HS.LS1A.b Multicellular organisms have a hierarchical structural organization, in which any one system is made up of numerous parts and is itself a component of the next level | Students develop a working model of a robotic hand where students identify and use materials to function as specific components of hand anatomy. | 
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| HS.LS1A.b Multicellular organisms have a hierarchical structural organization, in which any one system is made up of numerous parts and is itself a component of the next level | Students develop a working model of a robotic hand where students identify and use materials to function as specific components of hand anatomy. |
 
 ### Expected Lesson Duration
 
-[Lesson 1 - Introduction:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/1_lesson_1/) 30 - 60 minutes
+[Lesson 1 - Introduction:](./1_lesson_1/) 30 - 60 minutes
 
-[Lesson 2 - Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/2_lesson_2/) 150 - 180 minutes
+[Lesson 2 - Projects:](./2_lesson_2/) 150 - 180 minutes
 
-[Lesson 3 - Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/biological-engineering/3_lesson_3/) 30 - 60 minutes
+[Lesson 3 - Quiz:](./3_lesson_3/) 30 - 60 minutes

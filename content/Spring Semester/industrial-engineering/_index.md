@@ -1,7 +1,7 @@
 ---
 title: "Industrial Engineering"
 type: "teacher" 
-layout: "single"
+
 weight: 8
 ---
 
@@ -29,8 +29,8 @@ Click <a href="https://docs.google.com/document/d/1d6YJQeEmHiP3LFIBbkP8poCamptAx
 
 ### Expected Lesson Duration
 
-[Lesson 1 - Introduction:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/industrial-engineering/1_lesson_1/) 30 - 60 minutes
+[Lesson 1 - Introduction:](./1_lesson_1/) 30 - 60 minutes
 
-[Lesson 2 - Projects:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/industrial-engineering/2_lesson_2/) 150 - 180 minutes
+[Lesson 2 - Projects:](./2_lesson_2/) 150 - 180 minutes
 
-[Lesson 3 - Quiz:](http://intro-to-engineering-design.lsupathways.org/4_unit_4/industrial-engineering/3_lesson_3/) 30 - 60 minutes
+[Lesson 3 - Quiz:](./3_lesson_3/) 30 - 60 minutes

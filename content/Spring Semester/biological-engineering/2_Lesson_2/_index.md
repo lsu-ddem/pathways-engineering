@@ -1,8 +1,7 @@
 ---
 title: Lesson 2 - Projects
-weight: 2
+weight: 1
 type: "teacher"
-layout: "single"
 ---
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhRts286iH6wLuHcbo5JluY_uyXkqq9DJtmR5XrPplPFAT1JfUg8nuIsauknKfQLT9CFPpmkdyiom7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
