@@ -2,7 +2,6 @@
 title: Lesson 1
 weight: 1
 layout: post
-permalink: /unit-2---lesson-1/
 source-id: 1jjc1_UB5cEpau0UuDNVP0GrcHr2SI9z23I1fpUyaO5g
 published: true
 ---
@@ -12,15 +11,15 @@ published: true
 
 ### Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/1p_19jVihgD-P2X3Cwd3x8Szr8raeMC2h_VLlvV7vLuI/edit?usp=sharing" target="_blank">here</a> to download the communication powerpoint 
+Click <a href="https://docs.google.com/presentation/d/1p_19jVihgD-P2X3Cwd3x8Szr8raeMC2h_VLlvV7vLuI/edit?usp=sharing" target="_blank">here</a> to download the communication PowerPoint 
 
-Click <a href="https://docs.google.com/document/d/1aOHItCfYRcBMn56tGh1V8pKa0uOJBRGKdnyv2DsVeZQ/edit?usp=sharing" target="_blank">here</a> to download the lesson plan for this lesson. 
+Click <a href="https://docs.google.com/document/d/1mUM_eyD0E2XfdrCH64uMQhPRrIn1ZKY2ACEQTPcUmSE/edit?usp=sharing" target="_blank">here</a> to download the lesson plan for this lesson. 
 
 ### Student Materials
 
-Click to download the <a href="../StudentHandoutExcessiveWording.pdf" download>Excessive Wording Handout</a>
+Click to download the <a href="./StudentHandoutExcessiveWording.pdf" download>Excessive Wording Handout</a>
 
-Click to download the <a href="../StudentHandoutStrategiesforWriting.pdf" download>Strategies for Writing Handout</a>
+Click to download the <a href="./StudentHandoutStrategiesforWriting.pdf" download>Strategies for Writing Handout</a>
 
 ### Project
 

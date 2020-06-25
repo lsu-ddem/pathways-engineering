@@ -2,7 +2,6 @@
 title: Lesson 2
 weight: 2
 layout: post
-permalink: /unit-1---lesson-2/
 source-id: 1EF2ta5iMNqtV8itaqht1gYhMpABJ37NTVxdhoKWmcLQ
 published: true
 ---
@@ -10,9 +9,9 @@ published: true
 
 ### Teacher Materials 
 
-Click <a href="https://docs.google.com/presentation/d/1y4Q6X1tdN5RD3ATb1Peier_8F93HQGqLKZ0BwwdpvqI/edit?usp=sharing" target="_blank">here</a> to download powerpoint.
+Click <a href="https://docs.google.com/presentation/d/1y4Q6X1tdN5RD3ATb1Peier_8F93HQGqLKZ0BwwdpvqI/edit?usp=sharing" target="_blank">here</a> to download PowerPoint.
 
-Click <a href="../Teacher Notes -  Cigarette Example.pdf" download>here</a> to download the lesson plan for this lesson.
+Click <a href="./TeacherNotes-CigaretteExample.pdf" download>here</a> to download the lesson plan for this lesson.
 
 ### Student Materials
 
@@ -24,4 +23,4 @@ Click <a href="https://docs.google.com/document/d/1uBMVggbORtnC_iMVDAiBAYh2zP19r
 
 Click <a href="https://docs.google.com/document/d/13V92Nhzyk-srTYI3MpEAx9gx_HfwlHGiZ5luO2wcv6k/edit?usp=sharing" target="_blank">here</a> to download the Lab Report Questions
 
-Click  <a href="https://docs.google.com/document/d/1lRMeR3TRfSWb0qBGzZp7qpobwtZM0GWQijs03INQ4mw/edit?usp=sharing" target="_blank">here</a> to download the studnet handout for the project.
+Click  <a href="https://docs.google.com/document/d/1lRMeR3TRfSWb0qBGzZp7qpobwtZM0GWQijs03INQ4mw/edit?usp=sharing" target="_blank">here</a> to download the student handout for the project.

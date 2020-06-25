@@ -10,4 +10,4 @@ hidden: false
 
 ### LSU Engineering
 
-Click <a href="https://drive.google.com/file/d/1v3GR-2IucaFihYP5oFl1ikB7MV3RXwqp/view?usp=sharing" target="_blank">here</a> to learn more about chemcial engineering at LSU.
+Click <a href="https://drive.google.com/file/d/1v3GR-2IucaFihYP5oFl1ikB7MV3RXwqp/view?usp=sharing" target="_blank">here</a> to learn more about chemical engineering at LSU.
