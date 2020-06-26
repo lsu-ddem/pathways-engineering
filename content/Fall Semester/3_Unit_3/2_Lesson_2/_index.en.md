@@ -14,7 +14,7 @@ No student materials for this lesson
 
 ### Project 
 
-Click <a href="./Teacher%20Notes--Super%20Slinger.pdf" target="_blank">here</a> to download the lesson plan for this project.
+Click <a href="./Teacher%20Notes--Super%20Slinger.pdf" download>here</a> to download the lesson plan for this project.
 
 Click <a href="https://docs.google.com/document/d/1ZbFkt8OE5PawU47Z9UgGThe34AKpcshMNpzr1SFJ88Q/edit?usp=sharing" target="_blank">here</a> to download the project guide for this project.
 

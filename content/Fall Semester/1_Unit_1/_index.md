@@ -15,7 +15,7 @@ This unit introduces students to the course and teaches them about the importanc
 
 Click <a href="https://docs.google.com/document/d/12wwZKxBRnLQuwFWZFASt3EzKccmPFusGpK8VRDCC4d8/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for Unit 1.
 
-### [Lesson 1 (30-60 minutes)](https://intro-to-engineering-design.lsupathways.org/1_unit_1/1_lesson_1/)
+### [Lesson 1 (30-60 minutes)](./1_lesson_1/)
 
 In this lesson students will take a survey and a pre-test to determine prior knowledge. After, this lesson will go over the overall format of the class, the syllabus and classroom policies. This lesson will also teach students what engineering is and what engineers do.
 
@@ -29,7 +29,7 @@ In this lesson students will take a survey and a pre-test to determine prior kno
 
 - Enumerate several career paths for engineers
 
-### [Lesson 2 (150-180 minutes)](https://intro-to-engineering-design.lsupathways.org/1_unit_1/1_lesson_1/)
+### [Lesson 2 (150-180 minutes)](./2_lesson_2/)
 
 This lesson will teach students about ethical decision making through hands on projects.
 
