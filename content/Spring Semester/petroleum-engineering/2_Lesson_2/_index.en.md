@@ -9,13 +9,13 @@ weight: 2
 
 ### Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/17IsOHBnBax1FDTlcu8nxzx47YddgFef6NCGEeX5oxPk/edit?usp=sharing" target="_blank">here</a> to download the powerpoint.
+Click <a href="https://docs.google.com/presentation/d/17IsOHBnBax1FDTlcu8nxzx47YddgFef6NCGEeX5oxPk/edit?usp=sharing" target="_blank">here</a> to download the PowerPoint.
 
 Click <a href="https://docs.google.com/document/d/18HDLEDRZ8g4On0CDacMOaOsz0PwLuf6L1NgwnRkBXdM/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
 
-Click <a href="https://drive.google.com/file/d/1WDxFuhRBs9xbDGkIWVb_6L2We9EwbZpb/view?usp=sharing" target="_blank">here</a> to download the demostration video.
+Click <a href="https://drive.google.com/file/d/1WDxFuhRBs9xbDGkIWVb_6L2We9EwbZpb/view?usp=sharing" target="_blank">here</a> to download the demonstration video.
 
-Click <a href="https://docs.google.com/document/d/1262zihlS40ckArhjrYfHHzIgmwoxceTQfKXvSqxiwrc/edit?usp=sharing" target="_blank">here</a> to download the lab report disscusion questions.
+Click <a href="https://docs.google.com/document/d/1262zihlS40ckArhjrYfHHzIgmwoxceTQfKXvSqxiwrc/edit?usp=sharing" target="_blank">here</a> to download the lab report discussion questions.
 
 Click <a href="https://docs.google.com/document/d/1-tAqWqBhP3O_6BLEQd1lDd1SA5ss9npwMKGtH2NvcU0/edit?usp=sharing" target="_blank">here</a> to download the student handout key.
 

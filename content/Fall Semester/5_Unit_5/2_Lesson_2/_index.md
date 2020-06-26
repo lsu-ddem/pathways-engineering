@@ -11,7 +11,7 @@ weight: 2
 
 ### Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/1a8imeO3DOcw_o4AclNarOH92Ojc0bS1o2tbLtSFpup8/edit?usp=sharing" target="_blank">here</a> to download the powerpoint.
+Click <a href="https://docs.google.com/presentation/d/1a8imeO3DOcw_o4AclNarOH92Ojc0bS1o2tbLtSFpup8/edit?usp=sharing" target="_blank">here</a> to download the PowerPoint.
 
 Click <a href="https://docs.google.com/document/d/1VNB4rIsQU1y6kx_vyXwLRHNzezCsOU7CCll9Z8oZV-8/edit?usp=sharing" target="_blank">here</a> to download the lesson plan for this lesson.
 

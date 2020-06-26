@@ -8,11 +8,11 @@ type: "teacher"
 
 ### Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/1LOqOJsM1o9kMOjYLrbXC8ywptpjZrmInaoU5hw67Stg/edit?usp=sharing" target="_blank">here</a> to download the powerpoint.
+Click <a href="https://docs.google.com/presentation/d/1LOqOJsM1o9kMOjYLrbXC8ywptpjZrmInaoU5hw67Stg/edit?usp=sharing" target="_blank">here</a> to download the PowerPoint.
 
 Click <a href="https://docs.google.com/document/d/1Qx_z12HTUuJOZvwk7yH7pWmlO_cjR6hQHtOSKuvKpi0/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
 
-Click <a href="https://docs.google.com/document/d/1L77hmgvN-Cnhtg3DZ1Ekf8qD12w2SSuA1h4HkMziaNA/edit?usp=sharing" target="_blank">here</a> to download the lab report disscusion questions.
+Click <a href="https://docs.google.com/document/d/1L77hmgvN-Cnhtg3DZ1Ekf8qD12w2SSuA1h4HkMziaNA/edit?usp=sharing" target="_blank">here</a> to download the lab report discussion questions.
 
 ### Project Materials
 

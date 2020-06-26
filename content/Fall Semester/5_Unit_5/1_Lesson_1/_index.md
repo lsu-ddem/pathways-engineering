@@ -11,7 +11,7 @@ weight: 1
 
 ### Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/1CkMAiJbk4v7iZ3d34Lb4SfjhH1qt6BBayUh2BONJLhk/edit?usp=sharing" target="_blank">here</a> to download the powerpoint.
+Click <a href="https://docs.google.com/presentation/d/1CkMAiJbk4v7iZ3d34Lb4SfjhH1qt6BBayUh2BONJLhk/edit?usp=sharing" target="_blank">here</a> to download the PowerPoint.
 
 Click <a href="https://docs.google.com/document/d/1ZPKvAEImq0S_oOFY9sv3ZNNr3htHscrlHJg4yTff4h0/edit?usp=sharing" target="_blank">here</a> to download the lesson plan for this lesson.
 
@@ -23,4 +23,4 @@ Click <a href="https://docs.google.com/document/d/16Uee9gGDvdm3zLcdccPsSrEjgC4n5
 
 Click <a href="https://docs.google.com/document/d/1WXcN41b0401piNja-YU_uGEcF0plGHSzNE_NLqLihkg/edit?usp=sharing" target="_blank">here</a> to download assignment 1.
 
-Click <a href="https://docs.google.com/document/d/1wp15tio-8mHlW58c3EPPz3BT6pOQmKEdEscTUSNLU8s/edit?usp=sharing" target="_blank">here</a> to download assignement 2.
+Click <a href="https://docs.google.com/document/d/1wp15tio-8mHlW58c3EPPz3BT6pOQmKEdEscTUSNLU8s/edit?usp=sharing" target="_blank">here</a> to download assignment 2.

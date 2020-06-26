@@ -6,7 +6,7 @@ weight: 1
 
 ### Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/1FB5Bd-8YsaVdxoebPNK90wsglxlJkkMJIJ42svQ0Tv0/edit?usp=sharing" target="_blank">here</a> to download powerpoint.
+Click <a href="https://docs.google.com/presentation/d/1FB5Bd-8YsaVdxoebPNK90wsglxlJkkMJIJ42svQ0Tv0/edit?usp=sharing" target="_blank">here</a> to download PowerPoint.
 
 ### Student Materials
 

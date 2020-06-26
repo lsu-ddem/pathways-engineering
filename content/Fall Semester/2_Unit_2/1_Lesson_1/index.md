@@ -31,7 +31,7 @@ There is no project for Lesson 1 - Part 1.
 
 ### Teacher Materials 
 
-Click <a href="https://docs.google.com/presentation/d/1uciGaeQxhUK557b4o6pi-V6PKfIG9uVaUSTOp6OKKnM/edit?usp=sharing" target="_blank">here</a> to download the teamwork powerpoint 
+Click <a href="https://docs.google.com/presentation/d/1uciGaeQxhUK557b4o6pi-V6PKfIG9uVaUSTOp6OKKnM/edit?usp=sharing" target="_blank">here</a> to download the teamwork PowerPoint 
 
 ### Student Materials 
 

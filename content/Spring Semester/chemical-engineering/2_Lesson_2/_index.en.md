@@ -10,11 +10,11 @@ type: "teacher"
 
 ### Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/1SfuGYYUiuEb9Pq6Tj7ZghHng1VxefVT2EQvm5edvpmM/edit?usp=sharing" target="_blank">here</a> to download the powerpoint.
+Click <a href="https://docs.google.com/presentation/d/1SfuGYYUiuEb9Pq6Tj7ZghHng1VxefVT2EQvm5edvpmM/edit?usp=sharing" target="_blank">here</a> to download the PowerPoint.
 
 Click <a href="https://docs.google.com/document/d/1xPWWMpaSCmeqjS0y_z_1ZnO_wCjNEBMvQtuV4zurZO8/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
 
-Click <a href="https://docs.google.com/document/d/1jE8fDez5p7OwXctGyio7PXUmA2RXeVHXlOScY74bE6Q/edit?usp=sharing" target="_blank">here</a> to download the lab report disscusion questions.
+Click <a href="https://docs.google.com/document/d/1jE8fDez5p7OwXctGyio7PXUmA2RXeVHXlOScY74bE6Q/edit?usp=sharing" target="_blank">here</a> to download the lab report discussion questions.
 
 Click <a href="https://docs.google.com/document/d/1jAF34zKbBu1DeqDo2JqsRSjZ3mc4AdE175r8af79Da4/edit?usp=sharing" target="_blank">here</a> to download the student handout solution.
 

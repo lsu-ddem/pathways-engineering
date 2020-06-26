@@ -9,11 +9,11 @@ weight: 2
 
 ### Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/1ZP0vkJ3dCfWRZwSB_1yBzu0hdZH2p8A_fSI67XLhSZA/edit?usp=sharing" target="_blank">here</a> to download the powerpoint.
+Click <a href="https://docs.google.com/presentation/d/1ZP0vkJ3dCfWRZwSB_1yBzu0hdZH2p8A_fSI67XLhSZA/edit?usp=sharing" target="_blank">here</a> to download the PowerPoint.
 
 Click <a href="https://docs.google.com/document/d/1fQwR3E8Rxqq3u9qFpWwLoTrH5nvzj3a0ijgfCQGaJWA/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
 
-Click <a href="https://docs.google.com/document/d/1AyS1_rYW9AaPkI1QBZ-iZPleoxb8eil9_O9W4yppgVY/edit?usp=sharing" target="_blank">here</a> to download the lab report disscusion questions.
+Click <a href="https://docs.google.com/document/d/1AyS1_rYW9AaPkI1QBZ-iZPleoxb8eil9_O9W4yppgVY/edit?usp=sharing" target="_blank">here</a> to download the lab report discussion questions.
 
 ### Project Materials
 

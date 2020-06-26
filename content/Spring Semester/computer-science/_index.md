@@ -19,7 +19,7 @@ Students will work with Arduino’s to create a circuit that lights up an LED.  
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | CCSS.Math.Content.HSF-IF.B Interpret functions that arise in applications in terms of the context | Students will interpret functions to create code on an Arduino. |
 
-### NGSS Disciplinary COre Ideas
+### NGSS Disciplinary Core Ideas
 
 | NGSS Disciplinary Core Idea                                                                                                                                                                           | Student Action                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |

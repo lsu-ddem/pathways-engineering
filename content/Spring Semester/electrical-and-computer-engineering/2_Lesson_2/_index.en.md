@@ -9,7 +9,7 @@ type: "teacher"
 
 ### Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/18s3wOzV9GrDVC8Q_pHbNJSxSKOv-0cPa4n3wuQm4yaQ/edit?usp=sharing" target="_blank">here</a> to download the powerpoint.
+Click <a href="https://docs.google.com/presentation/d/18s3wOzV9GrDVC8Q_pHbNJSxSKOv-0cPa4n3wuQm4yaQ/edit?usp=sharing" target="_blank">here</a> to download the PowerPoint.
 
 Click <a href="https://docs.google.com/document/d/1YCVEb32JqhtIkJwKvc6QHz1ujjiKSnxsgSTaj0l2j9U/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
 

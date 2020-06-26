@@ -14,7 +14,7 @@ weight: 2
 
 ### Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/1hegRDD9V1cM6jeLYw1Cu8CN7k3qsZFW9xBV0d5W4ahg/edit?usp=sharing" target="_blank">here</a> to download the powerpoint.
+Click <a href="https://docs.google.com/presentation/d/1hegRDD9V1cM6jeLYw1Cu8CN7k3qsZFW9xBV0d5W4ahg/edit?usp=sharing" target="_blank">here</a> to download the PowerPoint.
 
 Click <a href="https://docs.google.com/document/d/1JDzibzWQOQPqxIRoi6xrWCQVPLipZX4r6IAUPRVhXck/edit?usp=sharing" target="_blank">here</a> to download the lesson plan for this lesson.
 
@@ -38,7 +38,7 @@ Click <a href="https://docs.google.com/document/d/1aWAFqFGsk8l71ErdDJtwjzbe52pNG
 
 ### Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/1Uk-dtE2urHemWIBtAiLcvVeyCXg_TpR7hjP3K8omr7M/edit?usp=sharing" target="_blank">here</a> to download the powerpoint.
+Click <a href="https://docs.google.com/presentation/d/1Uk-dtE2urHemWIBtAiLcvVeyCXg_TpR7hjP3K8omr7M/edit?usp=sharing" target="_blank">here</a> to download the PowerPoint.
 
 Click <a href="https://docs.google.com/document/d/1FqR2eCUKoJv5YilsSnlYLOtL-4Nu8jf7YDJVJO-57f0/edit?usp=sharing" target="_blank">here</a> to download the lesson plan for this lesson.
 

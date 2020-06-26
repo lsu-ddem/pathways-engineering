@@ -11,7 +11,7 @@ published: true
 
 ### Teacher Materials
 
-Click <a href="https://docs.google.com/presentation/d/1rDrkLjqQ-1i2FFQRS7ly-qQCYh6IYeZdjwtGp1CxPBE/edit?usp=sharing" target="_blank">here</a> to download powerpoint.
+Click <a href="https://docs.google.com/presentation/d/1rDrkLjqQ-1i2FFQRS7ly-qQCYh6IYeZdjwtGp1CxPBE/edit?usp=sharing" target="_blank">here</a> to download PowerPoint.
 
 ### Student Materials
 

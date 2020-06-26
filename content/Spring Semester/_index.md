@@ -8,7 +8,7 @@ published: true
 weight: 2
 ---
 
-# Engineering Diciplines 
+# Engineering Disciplines 
 
 ## Unit Objectives
 
