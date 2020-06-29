@@ -27,3 +27,9 @@ Now that students have a basic understanding of circuits, teams will create para
 | NGSS Disciplinary Core Idea                                                                                                                                                                           | Student Action                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ETS.HS.1C.a Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed. | Students follow specific steps to use Arduinos to build a physical circuit to light up an LED light. |
+
+[Lesson 1 - Introduction:](./1_lesson_1/) 30 - 60 minutes
+
+[Lesson 2 - Projects:](./2_lesson_2/) 150 - 180 minutes
+
+[Lesson 3 - Quiz:](./3_lesson_3/) 30 - 60 minutes

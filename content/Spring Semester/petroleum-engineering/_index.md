@@ -37,4 +37,4 @@ Click <a href="https://docs.google.com/document/d/1NsWSoIhx4LdEMUoqeItwGaN1zZ5IC
 
 [Lesson 2 - Projects:](./2_lesson_2/) 150 - 180 minutes
 
-<!-- [Lesson 3 - Quiz:](./3_lesson_3/) 30 - 60 minutes -->
+[Lesson 3 - Quiz:](./3_lesson_3/) 30 - 60 minutes

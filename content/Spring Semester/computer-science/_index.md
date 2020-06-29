@@ -24,3 +24,9 @@ Students will work with Arduino’s to create a circuit that lights up an LED.  
 | NGSS Disciplinary Core Idea                                                                                                                                                                           | Student Action                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | ETS.HS.1C.a Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed. | Students follow specific steps to accomplish a series of challenges using Arduinos. |
+
+[Lesson 1 - Introduction:](./1_lesson_1/) 30 - 60 minutes
+
+[Lesson 2 - Projects:](./2_lesson_2/) 150 - 180 minutes
+
+[Lesson 3 - Quiz:](./3_lesson_3/) 30 - 60 minutes
