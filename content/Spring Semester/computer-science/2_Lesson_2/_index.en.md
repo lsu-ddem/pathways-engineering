@@ -15,7 +15,7 @@ Click <a href="https://docs.google.com/presentation/d/15pTHAGk7MSFSqhvuszLg6qlGl
 
 Click <a href="https://docs.google.com/presentation/d/1v_PxFnBJGHQjV7S0x5a9X86yHjCdVooYyfWJ0bk3ulc/edit?usp=sharing" target="_blank">here</a> to download the intro to programming PowerPoint.
 
-Click <a href="https://docs.google.com/document/d/1tGJmM-bmdItr4sJeu9yyIwCk6s3_DH35CzWKvR7X4FE/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
+Click <a href="https://docs.google.com/document/d/1tGJmM-bmdItr4sJeu9yyIwCk6s3_DH35CzWKvR7X4FE/edit?usp=sharing" target="_blank">here</a> to download the lesson plans for this lesson.
 
 ### Project Materials
 

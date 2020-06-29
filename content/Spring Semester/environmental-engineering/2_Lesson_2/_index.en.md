@@ -19,8 +19,8 @@ Click <a href="https://docs.google.com/document/d/1AyS1_rYW9AaPkI1QBZ-iZPleoxb8e
 
 Click <a href="https://docs.google.com/document/d/16wVGNGSJFc1Rjxtza9PcJGnMvkorO4FKcJtTDzS1nvY/edit?usp=sharing" target="_blank">here</a> to download the student handout.
 
-### Additional Resources
+<!-- ### Additional Resources
 
 Click <a href="https://drive.google.com/file/d/1ELvdVP2bimn86lmid7bntV1F14414M29/view?usp=sharing" target="_blank">here</a> to download.
 
-Click <a href="https://drive.google.com/file/d/1FEbbRp43LrIfEZ2QzuyvaSlHGQn31ltZ/view?usp=sharing" target="_blank">here</a> to download.
+Click <a href="https://drive.google.com/file/d/1FEbbRp43LrIfEZ2QzuyvaSlHGQn31ltZ/view?usp=sharing" target="_blank">here</a> to download. -->

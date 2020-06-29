@@ -11,7 +11,7 @@ weight: 2
 
 Click <a href="https://docs.google.com/presentation/d/17IsOHBnBax1FDTlcu8nxzx47YddgFef6NCGEeX5oxPk/edit?usp=sharing" target="_blank">here</a> to download the PowerPoint.
 
-Click <a href="https://docs.google.com/document/d/18HDLEDRZ8g4On0CDacMOaOsz0PwLuf6L1NgwnRkBXdM/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
+Click <a href="https://docs.google.com/document/d/18HDLEDRZ8g4On0CDacMOaOsz0PwLuf6L1NgwnRkBXdM/edit?usp=sharing" target="_blank">here</a> to download the lesson plans for this lesson.
 
 Click <a href="https://drive.google.com/file/d/1WDxFuhRBs9xbDGkIWVb_6L2We9EwbZpb/view?usp=sharing" target="_blank">here</a> to download the demonstration video.
 

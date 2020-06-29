@@ -10,7 +10,7 @@ type: "teacher"
 
 Click <a href="https://docs.google.com/presentation/d/1fP1OkEelpVlWgN5xtGqVVtZ6UnMJatrLYt9Uya-9oWI/edit?usp=sharing" target="_blank">here</a> to download the PowerPoint.
 
-Click <a href="https://docs.google.com/document/d/1YEn8cKPG5xKa3me8dbFrsvCL839GIAnovkfuk11IKAk/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
+Click <a href="https://docs.google.com/document/d/1YEn8cKPG5xKa3me8dbFrsvCL839GIAnovkfuk11IKAk/edit?usp=sharing" target="_blank">here</a> to download the lesson plans for this lesson.
 
 Click <a href="https://docs.google.com/document/d/1_-Xga-b6vBUg7cLTlr5IeEK0ZUiEiKPGHrmvMv5QFe0/edit?usp=sharing" target="_blank">here</a> to download the lab report discussion questions.
 

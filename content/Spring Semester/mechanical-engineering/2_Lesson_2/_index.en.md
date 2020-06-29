@@ -10,7 +10,7 @@ type: "teacher"
 
 Click <a href="https://docs.google.com/presentation/d/11v8KbeW8EyCFHwWe9OBuQHRSqkaQ1gKbxZarQulXpcI/edit?usp=sharing" target="_blank">here</a> to download the PowerPoint.
 
-Click <a href="https://docs.google.com/document/d/1GJXbRNmIGSuTznMLm3k-mveva2U1clglzCtTXvWzBys/edit?usp=sharing" target="_blank">here</a> to download the teacher notes for this lesson.
+Click <a href="https://docs.google.com/document/d/1GJXbRNmIGSuTznMLm3k-mveva2U1clglzCtTXvWzBys/edit?usp=sharing" target="_blank">here</a> to download the lesson plans for this lesson.
 
 ### Project Materials
 
